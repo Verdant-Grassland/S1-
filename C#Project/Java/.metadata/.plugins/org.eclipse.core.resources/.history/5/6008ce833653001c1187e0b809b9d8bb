@@ -1,0 +1,14 @@
+package cn.jbit;
+
+import java.util.Scanner;
+
+public class url {
+	public static void main(String[] args) {
+		Scanner input = new Scanner(System.in);
+		System.out.println("输入一个网址:");
+		String cum = input.next();
+		int customber = cum.indexOf(":");
+		String bring = cum.substring(0 , customber);
+		System.out.println("地址中的协议名是:" + bring);
+	}
+}

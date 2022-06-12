@@ -1,0 +1,6 @@
+E:\C#Project\SortDemo\SortDemo\SortDemo\bin\Debug\SortDemo.exe.config
+E:\C#Project\SortDemo\SortDemo\SortDemo\bin\Debug\SortDemo.exe
+E:\C#Project\SortDemo\SortDemo\SortDemo\bin\Debug\SortDemo.pdb
+E:\C#Project\SortDemo\SortDemo\SortDemo\obj\Debug\SortDemo.csprojResolveAssemblyReference.cache
+E:\C#Project\SortDemo\SortDemo\SortDemo\obj\Debug\SortDemo.exe
+E:\C#Project\SortDemo\SortDemo\SortDemo\obj\Debug\SortDemo.pdb

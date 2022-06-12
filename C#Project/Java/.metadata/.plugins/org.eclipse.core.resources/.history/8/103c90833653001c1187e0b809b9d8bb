@@ -1,0 +1,19 @@
+package cn.jbit;
+
+public class User {
+	public boolean reg(String id , String phone , String telephone){
+		boolean isOk = false;
+		String[] tel = telephone.split("-");
+		if(id.length() != 16 && id.length() != 18){
+			System.out.println("身份证号的长度必须是16位或18位");
+		}else if(phone.length() != 11){
+			System.out.println("手机号码必须是11位");
+		}else if(tel[0].length() != 4 || tel[1].length() != 7){
+			System.out.println("座机号的区号必须是4位，号码必须是7位");
+		}else{
+			System.out.println("注册成功");
+			isOk = true;
+		}
+		return isOk;
+	}
+}

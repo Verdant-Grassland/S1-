@@ -1,0 +1,18 @@
+package cn.jbit;
+
+public class TestAdministrator01 {
+
+	
+	public static void main(String[] args) {
+		Administrator01 Admin = new Administrator01();
+		Admin.name = "admin";
+		Admin.password = "798254";
+		Admin.show();
+
+		Administrator01 Admin1 = new Administrator01();
+		Admin1.name = "halen";
+		Admin1.password = "739641";
+		Admin1.show();
+	}
+
+}

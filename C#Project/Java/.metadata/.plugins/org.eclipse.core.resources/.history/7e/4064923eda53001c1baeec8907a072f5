@@ -1,0 +1,12 @@
+package cn.jbit.work;
+
+public class TestCalculator {
+
+	public static void main(String[] args) {
+		Calculator work = new Calculator();
+		int num = 0;
+		int sum = 0;
+		int suds = 0;
+		work.main(num, sum, suds);
+	}
+}

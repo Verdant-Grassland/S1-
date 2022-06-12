@@ -1,0 +1,7 @@
+package cn.jbit;
+
+public class Person {
+	String name;
+	int age;
+	int popularity;
+}

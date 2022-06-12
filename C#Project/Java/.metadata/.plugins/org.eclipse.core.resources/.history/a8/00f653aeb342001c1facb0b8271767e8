@@ -1,0 +1,29 @@
+package cn.jbit;
+
+import java.util.Scanner;
+
+public class TesstArrays01 {
+
+	public static void main(String[] args){
+		int [] oo={1,2,32,43,66,86,34};
+		int st=0;
+		boolean c=false;
+		Scanner input=new Scanner(System.in);
+		System.out.println("输入一个数");
+		int fk=input.nextInt();
+		for(int gb=0;gb<oo.length;gb++){
+			System.out.println(oo[gb]+"\t");
+			st=st+oo[gb];
+			if(fk==oo[gb]){
+				c=true;
+				break;
+			}
+		}
+		if(c){
+			System.out.println("下标"+fk);
+		}else{
+			System.out.println("-1");
+		}
+	}
+
+}

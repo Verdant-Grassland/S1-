@@ -1,0 +1,11 @@
+package oo;
+
+import java.util.Scanner;
+
+public class zuoye3 {
+	public static void main(System[] args){
+		Scanner input=new Scanner(System.in);
+		
+	}
+
+}

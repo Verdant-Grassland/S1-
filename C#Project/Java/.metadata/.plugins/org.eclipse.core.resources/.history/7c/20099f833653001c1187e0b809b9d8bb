@@ -1,0 +1,31 @@
+package cn.jbit;
+
+public class SeBiz {
+	SE[] se = new SE[10];
+	public void add(SE num){
+		for(int i = 0 ; i < se.length; i++){
+			if(se[i]== null){
+				se[i] = num;
+				break;
+			}
+		}
+	}
+	public boolean searchName(String name){
+		boolean flag = false;
+		for(int i = 0 ; i < se.length ; i++){
+			if(se[i].name.equals(name)){
+				flag = true;
+				se[i].show();
+				break;
+			}
+		}
+		return flag;
+	}
+	public void showInfo(){
+		for(int i = 0 ; i < se.length ; i++){
+			if(se[i] != null){
+				se[i].show();
+			}
+		}
+	}
+}

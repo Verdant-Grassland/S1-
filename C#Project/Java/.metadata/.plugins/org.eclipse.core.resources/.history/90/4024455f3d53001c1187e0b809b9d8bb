@@ -1,0 +1,18 @@
+package cn.jbit;
+
+import java.util.Scanner;
+
+import cn.jbit.Ye2;
+
+public class TestYe2 {
+
+	public static void main(String[] args) {
+		Scanner input = new Scanner(System.in);
+		Ye2 homework = new Ye2();
+		System.out.println("要显示哪个符号？");
+		char chars = input.next().charAt(0);
+		System.out.println("要显示多少个？");
+		int num = input.nextInt();
+		homework.draw(num , chars);
+	}
+}

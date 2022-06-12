@@ -1,0 +1,21 @@
+package CN.jbit;
+
+import java.util.Scanner;
+
+public class Discount {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Scanner input=new Scanner(System.in);
+		int shirtPrice=245;
+		int sgiePrice=570;
+		int padPrice=320;
+		System.out.println(" ‰»Î’€ø€£∫");
+		double zhe=input.nextDouble();
+		
+	}
+
+}

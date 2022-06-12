@@ -1,0 +1,9 @@
+package cn.jbit;
+
+public class TestYe2 {
+
+	public static void main(String[] args) {
+		Ye2 homework = new Ye2();
+		System.out.println(homework);
+	}
+}

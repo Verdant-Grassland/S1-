@@ -1,0 +1,22 @@
+package W10Y14;
+
+import java.util.Scanner;
+
+public class ZY5 {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("прткЁИ╫╠");
+		int shu=(int)(Math.random()*10);
+		System.out.println(""+shu);
+		Scanner input=new Scanner(System.in);
+		int hei=input.nextInt();
+		
+		
+		
+	}
+
+}

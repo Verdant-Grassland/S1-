@@ -1,0 +1,8 @@
+package cn.jbit;
+
+public class Ye3 {
+	public boolean show(String name , String manse){
+		boolean flag = false;
+		if()
+	}
+}

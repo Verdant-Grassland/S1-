@@ -1,0 +1,17 @@
+package cn.jbit;
+
+import java.util.Scanner;
+
+public class Test20211101 {
+
+	
+	public static void main(String[] args) {
+		Scanner input = new Scanner(System.in);
+		System.out.println("输入名字:");
+		int name0 = input.nextInt();
+		String[] name = {"王振煜" , "任福天" , "张恒" ,"赵健齐" , "都圣杰"};
+		for (int i = 0 ; i <name.length ; i++) {
+			System.out.println(name [i]);
+		}
+	}
+}

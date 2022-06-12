@@ -1,0 +1,6 @@
+E:\C#Project\NewNum\NewNum\bin\Debug\NewNum.exe.config
+E:\C#Project\NewNum\NewNum\obj\Debug\NewNum.csprojResolveAssemblyReference.cache
+E:\C#Project\NewNum\NewNum\bin\Debug\NewNum.exe
+E:\C#Project\NewNum\NewNum\bin\Debug\NewNum.pdb
+E:\C#Project\NewNum\NewNum\obj\Debug\NewNum.exe
+E:\C#Project\NewNum\NewNum\obj\Debug\NewNum.pdb

@@ -1,0 +1,9 @@
+package cn.jbit;
+
+public class person {
+	
+
+	public static void main(String[] args){
+			System.out.println("Ãû×Ö\t³É¼¨");
+	}
+}	

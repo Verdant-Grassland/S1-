@@ -1,0 +1,8 @@
+package cn.jbit;
+
+public class Course {
+	public int calc(int java , int html , int sql){
+		int sum = java + html + sql;
+		return sum;
+	}
+}

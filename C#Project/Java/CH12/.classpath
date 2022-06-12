@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="11月18日下午作业"/>
+	<classpathentry kind="src" path="11月19日作业"/>
+	<classpathentry kind="src" path="11月22日晚自习作业"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="src" path="11月22日下午作业"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

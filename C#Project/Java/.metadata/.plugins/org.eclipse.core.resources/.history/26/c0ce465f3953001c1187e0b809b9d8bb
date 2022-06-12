@@ -1,0 +1,18 @@
+package cn.jbit;
+
+import java.util.Scanner;
+
+public class Ye1 {
+	public void showChar(){
+		Scanner input = new Scanner(System.in);
+		String[] chars = new String[5];
+		for(int i = 0 ; i < chars.length ; i++){
+			System.out.print("请输入第" + (i + 1) + "个字符串:");
+			chars[i] = input.next();
+		}
+		System.out.println("反向输出这5个字符串:");
+		for(int i = chars.length - 1 ; i >= 0 ; i--){
+			System.out.print(chars[i] + "  ");
+		}
+	}
+}

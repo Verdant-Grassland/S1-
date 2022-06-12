@@ -1,0 +1,13 @@
+package cn.jbit;
+
+public class TestYe2 {
+
+	public static void main(String[] args) {
+		Ye2 homework = new Ye2();
+		char ch = 0;
+		int n = 0;
+		homework.draw(n, ch);
+		char[] draw = null;
+		System.out.println(draw);
+	}
+}

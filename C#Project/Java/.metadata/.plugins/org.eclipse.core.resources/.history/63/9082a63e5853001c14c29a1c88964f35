@@ -1,0 +1,7 @@
+package cn.jbit;
+
+public class NgYe1 {
+	public void abs(int a){
+		
+	}
+}
