@@ -1,0 +1,8 @@
+package cn.jbit;
+
+public class TestInputData {
+
+	public static void main(String[] args) {
+		
+	}
+}

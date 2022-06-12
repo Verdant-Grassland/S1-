@@ -1,0 +1,12 @@
+package cn.jbit;
+
+public class Number {
+
+	public void getMax(int a , int b){
+		if(a > b){
+			System.out.println(a);
+		}else{
+			System.out.println(b);
+		}
+	}
+}

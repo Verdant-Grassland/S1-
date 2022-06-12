@@ -1,0 +1,79 @@
+[
+  {
+    "StudentID": "10101",
+    "LoginPwd": "123456",
+    "StudentName": "王南生",
+    "Sex": "男",
+    "Gradeld": 1,
+    "Phone": "18304117596\r\n",
+    "Address": "大连",
+    "BornDate": "2003-11-15T00:00:00",
+    "Email": "288567932@qq.com\r\n"
+  },
+  {
+    "StudentID": "10102",
+    "LoginPwd": "458523",
+    "StudentName": "杨思远",
+    "Sex": "男",
+    "Gradeld": 3,
+    "Phone": "13604487566",
+    "Address": "松原",
+    "BornDate": "2002-05-29T00:00:00",
+    "Email": "348875965@qq.com"
+  },
+  {
+    "StudentID": "10103",
+    "LoginPwd": "843695",
+    "StudentName": "艾思天",
+    "Sex": "女",
+    "Gradeld": 2,
+    "Phone": "15504895576\r\n",
+    "Address": "包头\r\n",
+    "BornDate": "2006-05-18T00:00:00",
+    "Email": "344075583@qq.com\r\n"
+  },
+  {
+    "StudentID": "10104",
+    "LoginPwd": "593648",
+    "StudentName": "徐月英",
+    "Sex": "女",
+    "Gradeld": 4,
+    "Phone": "15806854489",
+    "Address": "德州",
+    "BornDate": "2001-08-13T00:00:00",
+    "Email": "57693358@qq.com"
+  },
+  {
+    "StudentID": "10105",
+    "LoginPwd": "156985",
+    "StudentName": "任福天",
+    "Sex": "男",
+    "Gradeld": 6,
+    "Phone": "15640512750\r\n",
+    "Address": "沈阳",
+    "BornDate": "2008-08-15T00:00:00",
+    "Email": "1415509630@qq.com\r\n"
+  },
+  {
+    "StudentID": "10106",
+    "LoginPwd": "147654",
+    "StudentName": "张新贤",
+    "Sex": "男",
+    "Gradeld": 5,
+    "Phone": "18903557425",
+    "Address": "潞州",
+    "BornDate": "2000-02-22T00:00:00",
+    "Email": "377498258@qq.com"
+  },
+  {
+    "StudentID": "10107",
+    "LoginPwd": "845693",
+    "StudentName": "郑浩",
+    "Sex": "男",
+    "Gradeld": 7,
+    "Phone": "17381276632\r\n",
+    "Address": "成都",
+    "BornDate": "2006-09-17T00:00:00",
+    "Email": "3447010016@qq.com\r\n"
+  }
+]

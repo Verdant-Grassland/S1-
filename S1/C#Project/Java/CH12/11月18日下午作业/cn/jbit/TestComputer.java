@@ -1,0 +1,14 @@
+package cn.jbit;
+
+public class TestComputer {
+
+	public static void main(String[] args) {
+		Computer put = new Computer();
+		put.CPU = "G3240";
+		put.main_board = "昂牛主板";
+		put.memory = "16GB内存";
+		put.hard_disk = "迪西硬盘2T";
+		put.monitor = "LG显示器超高清4D";
+		put.showInfo();
+	}
+}

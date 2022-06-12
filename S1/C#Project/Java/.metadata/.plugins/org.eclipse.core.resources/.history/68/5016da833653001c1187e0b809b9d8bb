@@ -1,0 +1,21 @@
+package cn.jbit;
+
+import java.util.Scanner;
+
+public class TestWork {
+
+	public static void main(String[] args) {
+		Scanner input = new Scanner (System.in);
+		Work work = new Work();
+		work.show();
+		work.shoe();
+		System.out.println("输入寻找的用户:");
+		String name = input.next();
+		boolean munder = work.shower(name);
+		if(munder){
+			System.out.println("找到了");
+		}else{
+			System.out.println("没找到");
+		}
+	}
+}

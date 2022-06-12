@@ -1,0 +1,38 @@
+package CN.jbit;
+
+public class pay {
+	public static void main(String[] args){
+		//定义
+		int shirtPrice=245;
+		int sgiePrice=570;
+		int padPrice=320;
+		
+		int shirtNo=2;
+		int shoeNo=1;
+		int padNo=1;
+		
+		double discount=0.8;
+		
+		System.out.println("*****************消费单************");
+		System.out.println("购买物品\t单价\t个数\t金额");
+		System.out.println("T血\t"+shirtPrice"\t ￥"+hirtNo"\t ￥"+(shirtPrice*hirtNo));
+		
+		
+		
+		
+		
+		//计算价格
+		double zho=(shirtPrice*shirtNo+sgiePrice*shoeNo+padPrice*padNo)*discount;
+		System.out.println("消费总金额："+zho);
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	}
+}

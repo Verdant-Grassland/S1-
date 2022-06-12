@@ -1,0 +1,22 @@
+package oo;
+
+import java.util.Scanner;
+
+public class zuoye2 {
+	public static void main(String[] main){
+		Scanner input=new Scanner(System.in);
+		System.out.println("ÇëÊäÈëÔÂ·İ");
+		int gb=input.nextInt();
+		if(gb<=11){
+			System.out.println("Çï¼¾");
+		}else if(gb<=8){
+			System.out.println("ÏÄ¼¾");
+		}else if(gb<=5){
+			System.out.println("´º¼¾");
+		}else{
+			System.out.println("¶¬¼¾");
+			
+		}
+	}
+
+}

@@ -1,0 +1,48 @@
+package bank.com;
+
+import java.util.Scanner;
+
+public class TestAccount {
+
+	public static void main(String[] args) {
+		Scanner input = new Scanner(System.in);
+		Account acc = new Account();
+		boolean flag = true;
+		do{
+			System.out.println("\n1.存款    2.取款   3.查询余额   0.退出");
+			System.out.println("请选择您需办理的业务:");
+			int choose = input.nextInt();
+			switch(choose){
+			case 1:
+				System.out.println("输入存的钱数:");
+				int money = input.nextInt();
+				double result = acc.saveMoney(money);
+				if(result == -1){
+					System.out.println("存的钱数不能小于0");
+				}else{
+					System.out.println("存钱成功");
+					System.out.println("*********当前余额是:" + result + "*********");
+				}
+				break;
+			case 2:
+				System.out.println("输入要取的金额:");
+				money = input.nextInt();
+				result = acc.getMoney(money);
+				if(result == -1){
+					System.out.println("取的钱数不能是负数");
+				}else if(result == -2){
+					System.out.println("取的钱数大于了卡里余额");
+				}else{
+					System.out.println("取钱成功");
+					System.out.println("*********当前余额是:" + result + "*********");
+				}
+				break;
+			case 3:
+				break;
+			case 0:
+				flag = false;
+				break;
+			}
+		}while()
+	}
+}

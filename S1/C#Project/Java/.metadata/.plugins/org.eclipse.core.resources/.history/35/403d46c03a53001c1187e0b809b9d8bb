@@ -1,0 +1,16 @@
+package cn.jbit;
+
+import java.util.Scanner;
+
+public class Ye2 {
+	public void draw( int n , char ch){
+		Scanner input = new Scanner(System.in);
+		System.out.println("要显示哪个符号？");
+		char chars = input.next().charAt(0);
+		System.out.println("要显示多少个？");
+		int num = input.nextInt();
+		for(int i = 0 ; i <= n ; i++){
+			System.out.println(ch);
+		}
+	}
+}

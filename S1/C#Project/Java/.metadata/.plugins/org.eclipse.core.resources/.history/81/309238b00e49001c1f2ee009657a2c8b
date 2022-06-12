@@ -1,0 +1,13 @@
+package cn.jbit;
+
+public class TestCar {
+
+	public static void main(String[] args) {
+			Car Drive=new Car();
+			Drive.name="·¨À­Àû";
+			Drive.color="±ù¾§À¶";
+			D.show();
+			Drive.Run();
+			Drive.stop();
+	}
+}

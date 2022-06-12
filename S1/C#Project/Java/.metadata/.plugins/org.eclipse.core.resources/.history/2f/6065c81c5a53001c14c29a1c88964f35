@@ -1,0 +1,18 @@
+package cn.jbit;
+
+import java.util.Scanner;
+
+public class NgYe2 {
+	public int abs(int a){
+		int sum = Math.abs(a);
+		return sum;
+	}
+	public void showNum(){
+		Scanner input = new Scanner(System.in);
+		NgYe2 work = new NgYe2();
+		System.out.println("请输入一个整数");
+		int sum = input.nextInt();
+		int num = work.abs(sum);
+		System.out.println("绝对值是:" + num);
+	}
+}

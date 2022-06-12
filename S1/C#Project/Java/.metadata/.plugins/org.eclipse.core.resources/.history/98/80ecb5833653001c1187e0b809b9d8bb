@@ -1,0 +1,11 @@
+package cn.jbit;
+
+public class CalcSums {
+	public int calc(int num) {
+		int gum = 0;
+		for(int i = 0 ; i <= num ; i++){
+			gum = gum + i;
+		}
+		return gum;
+	}
+}

@@ -1,0 +1,63 @@
+package cn.jbit.work;
+
+import java.util.Scanner;
+
+public class Calculator {
+	public double main(int num , int sum , int suds){
+		Scanner input = new Scanner(System.in);
+		double suder = 0;
+		System.out.println("请选择运算:");
+		System.out.println("1.加法\n2.减法\n3.乘法\n4.除法");
+		System.out.println("**************");
+		System.out.println("请选择:");
+		int scorth = input.nextInt();
+		switch(scorth){
+		case 1:
+			System.out.print("请输入第一个数:");
+			sum = input.nextInt();
+			System.out.print("请输入第二个数:");
+			suds = input.nextInt();
+			num = sum + suds;
+			System.out.println("**************");
+			System.out.println("运算结果为:" + num);
+			break;
+		case 2:
+			System.out.print("请输入第一个数:");
+			sum = input.nextInt();
+			System.out.print("请输入第二个数:");
+			suds = input.nextInt();
+			num = sum - suds;
+			System.out.println("**************");
+			System.out.println("运算结果为:" + num);
+			break;
+		case 3:
+			System.out.print("请输入第一个数:");
+			sum = input.nextInt();
+			System.out.print("请输入第二个数:");
+			suds = input.nextInt();
+			num = sum * suds;
+			System.out.println("**************");
+			System.out.println("运算结果为:" + num);
+			break;
+		case 4:
+			System.out.print("请输入第一个数:");
+			sum = input.nextInt();
+			System.out.print("请输入第二个数:");
+			suds = input.nextInt();
+			if(num == 0){
+				System.out.println("**************");
+				try{
+					throw new Exception("除数不能为0");
+				}catch(Exception e){
+					e.printStackTrace();
+				}
+			}else{
+				num = sum / suds;
+				System.out.println("**************");
+				System.out.println("运算结果为:" + num);
+				break;
+			}
+		}
+		return suder;
+	}
+}

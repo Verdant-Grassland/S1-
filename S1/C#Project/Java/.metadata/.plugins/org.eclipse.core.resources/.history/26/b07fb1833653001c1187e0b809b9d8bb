@@ -1,0 +1,15 @@
+package cn.jbit;
+
+import java.util.Scanner;
+
+public class Ye3 {
+
+	public static void main(String[] args) {
+		Scanner input = new Scanner(System.in);
+		System.out.println("ÊäÈëÒ»¸ö×Ö·û´®:");
+		String chars = input.next();
+		String[] chars = new String[chars.length];
+		
+		
+	}
+}

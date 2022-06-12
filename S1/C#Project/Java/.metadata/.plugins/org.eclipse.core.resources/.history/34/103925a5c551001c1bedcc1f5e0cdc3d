@@ -1,0 +1,14 @@
+package cn.jbit;
+
+import java.util.Scanner;
+
+public class url {
+	public static void main(String[] args) {
+		Scanner input = new Scanner(System.in);
+		System.out.println("ÊäÈëÒ»¸öÍøÖ·:");
+		String cum = input.next();
+		int customber = cum.indexOf(":");
+		String tring = cum.substring(0 , customber);
+		System.out.println(tring);
+	}
+}

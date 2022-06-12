@@ -1,0 +1,11 @@
+package cn.jbit;
+
+import cn.jbit.Ye1;
+
+public class TestYe1 {
+
+	public static void main(String[] args) {
+		Ye1 homework = new Ye1();
+		homework.showChars();
+	}
+}

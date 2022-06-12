@@ -1,0 +1,21 @@
+package cn.jbit;
+
+import java.util.Scanner;
+
+public class TestAdministrator01 {
+
+	
+	public static void main(String[] args) {
+		Scanner input = new Scanner(System.in);
+		Administrator01 admin = new Administrator01();
+		
+//		admin.name = "admin";
+//		admin.password = "798254";
+//		admin.show();
+//
+//		Administrator01 admin1 = new Administrator01();
+//		admin1.name = "halen";
+//		admin1.password = "739641";
+//		admin1.show();
+	}
+}

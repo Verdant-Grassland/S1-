@@ -1,0 +1,28 @@
+package cn.jbit;
+
+import java.util.Scanner;
+
+public class TestYe1 {
+
+	public boolean TestYe1(String name , String password){
+		if(name.equals("liuqy") && password.equals("672569")){
+			return true;
+		}else{
+			return false;
+		}
+	}
+	public static void main(String[] args) {
+		Scanner input = new Scanner(System.in);
+		TestYe1 newer = new TestYe1();
+		System.out.println("请输入用户名:");
+		String name = input.next();
+		System.out.println("请输入密码:");
+		String password = input.next();
+		boolean flag = newer.TestYe1(name, password);
+		if(flag){
+			System.out.println("登录成功");
+		}else{
+			System.out.println("用户名或密码错误!");
+		}
+	}
+}

@@ -1,0 +1,14 @@
+package cn.jbiter;
+
+public class TestGame {
+
+	public static void main(String[] args) {
+		Game game = new Game();
+		game.initial();
+		game.startGame();
+		
+		Game game4 = new Game();
+		game4.initial();
+		game4.startGame();
+	}
+}

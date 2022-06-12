@@ -1,0 +1,17 @@
+package cn.jbit;
+
+public class Student00 {
+	public char show(int score){
+		char Dei = ' ';
+		if(score >= 85 && score <= 100){
+			Dei = 'A';
+		}else if(score >= 70 && score <= 84){
+			Dei = 'B';
+		}else if(score >= 60 && score <= 69){
+			Dei = 'C';
+		}else{
+			Dei = 'D';
+		}
+		return Dei;
+	}
+}

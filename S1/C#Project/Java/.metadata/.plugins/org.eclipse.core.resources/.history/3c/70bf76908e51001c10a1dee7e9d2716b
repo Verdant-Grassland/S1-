@@ -1,0 +1,14 @@
+package cn.jbit;
+
+import java.util.Scanner;
+
+public class TestInputData {
+
+	public static void main(String[] args) {
+		Scanner input = new Scanner(System.in);
+		InputData data = new InputData();
+		System.out.println("ÊäÈëÒ»¸ö×Ö·û´®:");
+		String name = input.nextLine();
+		System.out.println(name);
+	}
+}

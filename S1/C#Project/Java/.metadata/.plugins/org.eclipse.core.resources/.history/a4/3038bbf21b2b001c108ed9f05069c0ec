@@ -1,0 +1,19 @@
+package cn.jbit;
+importjava.uil.Scanner;
+		public class ZY1 {
+			public static void main(String[] args) {
+				Scanner input = new Scanner(System.in);
+				System.out.print("STB的成绩是：");
+				int stb = input.nextInt();     //stb分数
+				//省略接收Java分数和SQL分数……
+				int diffen;       //分数差
+				double avg;       //平均分
+			 //省略输出成绩单代码……
+				diffen = java - sql; //计算Java课和SQL课的成绩差
+				System.out.println("Java和SQL的成绩差：" + diffen);
+				avg = (stb + java + sql) / 3;	//计算平均分
+				System.out.println("3门课的平均分是: " + avg);
+			}
+		}
+
+	}

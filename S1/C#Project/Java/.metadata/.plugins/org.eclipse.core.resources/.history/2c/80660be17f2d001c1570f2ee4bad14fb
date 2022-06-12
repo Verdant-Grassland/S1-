@@ -1,0 +1,15 @@
+package oo;
+
+public class zuoye3 {
+	public static void main(System[] args){
+		System.out.println("请输入数字");
+		Scanner input=new Scanner(System.in);
+		int gb=input.nextInt();
+		int o=gb/100%10;
+		int oo=gb/10%10;
+		int ooo=gb%10;
+		int fk=o*o*o+oo*oo*oo+ooo*ooo*ooo;
+		System.out.println("等于"+fk);
+	}
+
+}

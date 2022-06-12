@@ -1,0 +1,12 @@
+package cn.jbit;
+
+import java.util.Scanner;
+
+public class TestScore {
+	
+	public static void main(String[] args) {
+		Scanner input = new Scanner(System.in);
+		System.out.println("输入学生成绩:▓▓▓▓▒▒▒☀☀☀☀☀☾☾☾♂♂♂☹☹☹☹☚☚☛☟☝☞☛"); 
+		double score = input.nextInt();
+	}
+}

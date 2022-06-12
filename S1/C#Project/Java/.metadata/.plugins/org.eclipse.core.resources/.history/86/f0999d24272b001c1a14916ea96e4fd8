@@ -1,0 +1,8 @@
+import cn.jbit.scanner;
+
+public class ZY1 {
+	public static void main(String[] args) {
+		scanner input = new scanner(System.in);
+		System.out.println();
+	}
+}

@@ -1,0 +1,24 @@
+package W10Y14;
+
+import java.util.Scanner;
+
+public class ZY2 {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("小明收到的压岁钱:");
+		Scanner input=new Scanner(System.in);
+		int yuan=input.nextInt();
+		if (yuan>1000){
+			System.out.println("捐赠留守儿童");
+		}else if(yuan>=500){
+			System.out.println("买航空母舰模型");
+		}else{
+			System.out.println("买百科全书");
+		}	
+	}
+
+}

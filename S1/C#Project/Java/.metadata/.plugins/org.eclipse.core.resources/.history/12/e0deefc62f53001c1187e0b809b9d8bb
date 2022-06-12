@@ -1,0 +1,15 @@
+package cn.jbit;
+
+public class Ye3 {
+	public int show(String name , String manse){
+		int number = 0;
+		String[] tring = new String[name.length()];
+		for(int i = 0 ; i < name.length() ; i++){
+			tring[i] = name.substring(i , i + 1);
+			if(tring[i].equals(manse)){
+			number++;
+			}
+		}
+			return number;
+	}
+}

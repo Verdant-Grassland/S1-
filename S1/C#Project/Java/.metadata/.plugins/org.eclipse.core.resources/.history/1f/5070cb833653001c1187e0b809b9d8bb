@@ -1,0 +1,18 @@
+package cn.jbit;
+
+import java.util.Scanner;
+
+public class TestStudent {
+
+	public static void main(String[] args) {
+		Scanner input = new Scanner(System.in);
+		Student dent = new Student();
+		int[] sun = new int[10];
+		for(int i = 0 ; i < sun.length ; i++){
+			System.out.println("请输入第" + (i + 1) + "同学的学习成绩:");
+			sun[i] = input.nextInt();
+		}
+		int nun = dent.count(sun);
+		System.out.println("学生的成绩大于80分人数是:" + nun);
+	}
+}
