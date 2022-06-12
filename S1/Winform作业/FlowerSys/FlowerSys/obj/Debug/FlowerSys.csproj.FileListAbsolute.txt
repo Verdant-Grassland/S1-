@@ -1,0 +1,13 @@
+D:\Winform作业\FlowerSys\FlowerSys\bin\Debug\FlowerSys.exe.config
+D:\Winform作业\FlowerSys\FlowerSys\bin\Debug\FlowerSys.exe
+D:\Winform作业\FlowerSys\FlowerSys\bin\Debug\FlowerSys.pdb
+D:\Winform作业\FlowerSys\FlowerSys\obj\Debug\FlowerSys.csproj.AssemblyReference.cache
+D:\Winform作业\FlowerSys\FlowerSys\obj\Debug\FlowerSys.csproj.SuggestedBindingRedirects.cache
+D:\Winform作业\FlowerSys\FlowerSys\obj\Debug\FlowerSys.FrmMain.resources
+D:\Winform作业\FlowerSys\FlowerSys\obj\Debug\FlowerSys.FrmSearch.resources
+D:\Winform作业\FlowerSys\FlowerSys\obj\Debug\FlowerSys.Properties.Resources.resources
+D:\Winform作业\FlowerSys\FlowerSys\obj\Debug\FlowerSys.csproj.GenerateResource.cache
+D:\Winform作业\FlowerSys\FlowerSys\obj\Debug\FlowerSys.csproj.CoreCompileInputs.cache
+D:\Winform作业\FlowerSys\FlowerSys\obj\Debug\FlowerSys.exe
+D:\Winform作业\FlowerSys\FlowerSys\obj\Debug\FlowerSys.pdb
+D:\Winform作业\FlowerSys\FlowerSys\obj\Debug\FlowerSys.FrmUpdate.resources

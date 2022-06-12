@@ -1,0 +1,12 @@
+E:\C#Project\MySchool\MySchool\bin\Debug\MySchool.exe.config
+E:\C#Project\MySchool\MySchool\bin\Debug\MySchool.exe
+E:\C#Project\MySchool\MySchool\bin\Debug\MySchool.pdb
+E:\C#Project\MySchool\MySchool\obj\Debug\MySchool.csprojResolveAssemblyReference.cache
+E:\C#Project\MySchool\MySchool\obj\Debug\MySchool.exe
+E:\C#Project\MySchool\MySchool\obj\Debug\MySchool.pdb
+E:\S1T100\MySchool\MySchool\bin\Debug\MySchool.exe.config
+E:\S1T100\MySchool\MySchool\obj\Debug\MySchool.exe
+E:\S1T100\MySchool\MySchool\obj\Debug\MySchool.pdb
+E:\S1T100\MySchool\MySchool\bin\Debug\MySchool.exe
+E:\S1T100\MySchool\MySchool\bin\Debug\MySchool.pdb
+E:\S1T100\MySchool\MySchool\obj\Debug\MySchool.csprojResolveAssemblyReference.cache

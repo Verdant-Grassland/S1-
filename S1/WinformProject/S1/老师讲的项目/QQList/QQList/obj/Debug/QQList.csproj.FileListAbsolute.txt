@@ -1,0 +1,12 @@
+E:\S1T100\QQList\QQList\bin\Debug\QQList.exe.config
+E:\S1T100\QQList\QQList\bin\Debug\QQList.exe
+E:\S1T100\QQList\QQList\bin\Debug\QQList.pdb
+E:\S1T100\QQList\QQList\obj\Debug\QQList.csprojResolveAssemblyReference.cache
+E:\S1T100\QQList\QQList\obj\Debug\QQList.Form1.resources
+E:\S1T100\QQList\QQList\obj\Debug\QQList.Properties.Resources.resources
+E:\S1T100\QQList\QQList\obj\Debug\QQList.csproj.GenerateResource.Cache
+E:\S1T100\QQList\QQList\obj\Debug\QQList.exe
+E:\S1T100\QQList\QQList\obj\Debug\QQList.pdb
+E:\【各班级课堂】\S1T100\QQList\QQList\bin\Debug\QQList.exe.config
+E:\【各班级课堂】\S1T100\QQList\QQList\obj\Debug\QQList.exe
+E:\【各班级课堂】\S1T100\QQList\QQList\obj\Debug\QQList.pdb

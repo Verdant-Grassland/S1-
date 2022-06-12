@@ -1,0 +1,16 @@
+D:\WinformsProject\Employee\Employee\bin\Debug\4月26日作业.exe.config
+D:\WinformsProject\Employee\Employee\bin\Debug\4月26日作业.exe
+D:\WinformsProject\Employee\Employee\bin\Debug\4月26日作业.pdb
+D:\WinformsProject\Employee\Employee\obj\Debug\Employee.csproj.AssemblyReference.cache
+D:\WinformsProject\Employee\Employee\obj\Debug\Employee.csproj.SuggestedBindingRedirects.cache
+D:\WinformsProject\Employee\Employee\obj\Debug\Employee.frmAdd.resources
+D:\WinformsProject\Employee\Employee\obj\Debug\Employee.frmEmployeeSysMain.resources
+D:\WinformsProject\Employee\Employee\obj\Debug\_4月26日作业.Properties.Resources.resources
+D:\WinformsProject\Employee\Employee\obj\Debug\Employee.csproj.GenerateResource.cache
+D:\WinformsProject\Employee\Employee\obj\Debug\Employee.csproj.CoreCompileInputs.cache
+D:\WinformsProject\Employee\Employee\obj\Debug\4月26日作业.exe
+D:\WinformsProject\Employee\Employee\obj\Debug\4月26日作业.pdb
+D:\WinformsProject\Employee\Employee\bin\Debug\4月26日作业.exe.manifest
+D:\WinformsProject\Employee\Employee\bin\Debug\4月26日作业.application
+D:\WinformsProject\Employee\Employee\obj\Debug\4月26日作业.exe.manifest
+D:\WinformsProject\Employee\Employee\obj\Debug\4月26日作业.application

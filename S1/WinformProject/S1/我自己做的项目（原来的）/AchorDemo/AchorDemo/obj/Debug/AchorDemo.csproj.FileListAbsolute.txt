@@ -1,0 +1,11 @@
+D:\WinformsProject\AchorDemo\AchorDemo\bin\Debug\AchorDemo.exe.config
+D:\WinformsProject\AchorDemo\AchorDemo\bin\Debug\AchorDemo.exe
+D:\WinformsProject\AchorDemo\AchorDemo\bin\Debug\AchorDemo.pdb
+D:\WinformsProject\AchorDemo\AchorDemo\obj\Debug\AchorDemo.csproj.AssemblyReference.cache
+D:\WinformsProject\AchorDemo\AchorDemo\obj\Debug\AchorDemo.csproj.SuggestedBindingRedirects.cache
+D:\WinformsProject\AchorDemo\AchorDemo\obj\Debug\AchorDemo.Form1.resources
+D:\WinformsProject\AchorDemo\AchorDemo\obj\Debug\AchorDemo.Properties.Resources.resources
+D:\WinformsProject\AchorDemo\AchorDemo\obj\Debug\AchorDemo.csproj.GenerateResource.cache
+D:\WinformsProject\AchorDemo\AchorDemo\obj\Debug\AchorDemo.csproj.CoreCompileInputs.cache
+D:\WinformsProject\AchorDemo\AchorDemo\obj\Debug\AchorDemo.exe
+D:\WinformsProject\AchorDemo\AchorDemo\obj\Debug\AchorDemo.pdb

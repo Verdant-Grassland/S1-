@@ -1,0 +1,6 @@
+E:\S1T100\QQManage\QQManage\bin\Debug\QQManage.exe.config
+E:\S1T100\QQManage\QQManage\bin\Debug\QQManage.exe
+E:\S1T100\QQManage\QQManage\bin\Debug\QQManage.pdb
+E:\S1T100\QQManage\QQManage\obj\Debug\QQManage.csprojResolveAssemblyReference.cache
+E:\S1T100\QQManage\QQManage\obj\Debug\QQManage.exe
+E:\S1T100\QQManage\QQManage\obj\Debug\QQManage.pdb

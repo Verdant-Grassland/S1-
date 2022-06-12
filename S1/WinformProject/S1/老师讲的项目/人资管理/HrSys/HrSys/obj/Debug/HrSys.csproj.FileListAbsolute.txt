@@ -1,0 +1,11 @@
+E:\【各班级课堂】\S1T100\人资管理\HrSys\HrSys\bin\Debug\HrSys.exe.config
+E:\【各班级课堂】\S1T100\人资管理\HrSys\HrSys\bin\Debug\HrSys.exe
+E:\【各班级课堂】\S1T100\人资管理\HrSys\HrSys\bin\Debug\HrSys.pdb
+E:\【各班级课堂】\S1T100\人资管理\HrSys\HrSys\obj\Debug\HrSys.csprojResolveAssemblyReference.cache
+E:\【各班级课堂】\S1T100\人资管理\HrSys\HrSys\obj\Debug\HrSys.FrmMain.resources
+E:\【各班级课堂】\S1T100\人资管理\HrSys\HrSys\obj\Debug\HrSys.FrmSearch.resources
+E:\【各班级课堂】\S1T100\人资管理\HrSys\HrSys\obj\Debug\HrSys.FrmUpdate.resources
+E:\【各班级课堂】\S1T100\人资管理\HrSys\HrSys\obj\Debug\HrSys.Properties.Resources.resources
+E:\【各班级课堂】\S1T100\人资管理\HrSys\HrSys\obj\Debug\HrSys.csproj.GenerateResource.Cache
+E:\【各班级课堂】\S1T100\人资管理\HrSys\HrSys\obj\Debug\HrSys.exe
+E:\【各班级课堂】\S1T100\人资管理\HrSys\HrSys\obj\Debug\HrSys.pdb

@@ -1,0 +1,13 @@
+D:\WinformProject\Mobile\Mobile\bin\Debug\Mobile.exe.config
+D:\WinformProject\Mobile\Mobile\bin\Debug\Mobile.exe
+D:\WinformProject\Mobile\Mobile\bin\Debug\Mobile.pdb
+D:\WinformProject\Mobile\Mobile\obj\Debug\Mobile.csproj.AssemblyReference.cache
+D:\WinformProject\Mobile\Mobile\obj\Debug\Mobile.csproj.SuggestedBindingRedirects.cache
+D:\WinformProject\Mobile\Mobile\obj\Debug\Mobile.frmAdd.resources
+D:\WinformProject\Mobile\Mobile\obj\Debug\Mobile.frmMain.resources
+D:\WinformProject\Mobile\Mobile\obj\Debug\Mobile.frmSearch.resources
+D:\WinformProject\Mobile\Mobile\obj\Debug\Mobile.Properties.Resources.resources
+D:\WinformProject\Mobile\Mobile\obj\Debug\Mobile.csproj.GenerateResource.cache
+D:\WinformProject\Mobile\Mobile\obj\Debug\Mobile.csproj.CoreCompileInputs.cache
+D:\WinformProject\Mobile\Mobile\obj\Debug\Mobile.exe
+D:\WinformProject\Mobile\Mobile\obj\Debug\Mobile.pdb

@@ -1,0 +1,13 @@
+D:\Winforms作业\ComputerManager\ComputerManager\bin\Debug\ComputerManager.exe.config
+D:\Winforms作业\ComputerManager\ComputerManager\bin\Debug\ComputerManager.exe
+D:\Winforms作业\ComputerManager\ComputerManager\bin\Debug\ComputerManager.pdb
+D:\Winforms作业\ComputerManager\ComputerManager\obj\Debug\ComputerManager.csproj.AssemblyReference.cache
+D:\Winforms作业\ComputerManager\ComputerManager\obj\Debug\ComputerManager.csproj.SuggestedBindingRedirects.cache
+D:\Winforms作业\ComputerManager\ComputerManager\obj\Debug\ComputerManager.frmAdd.resources
+D:\Winforms作业\ComputerManager\ComputerManager\obj\Debug\ComputerManager.frmMain.resources
+D:\Winforms作业\ComputerManager\ComputerManager\obj\Debug\ComputerManager.frmSearch.resources
+D:\Winforms作业\ComputerManager\ComputerManager\obj\Debug\ComputerManager.Properties.Resources.resources
+D:\Winforms作业\ComputerManager\ComputerManager\obj\Debug\ComputerManager.csproj.GenerateResource.cache
+D:\Winforms作业\ComputerManager\ComputerManager\obj\Debug\ComputerManager.csproj.CoreCompileInputs.cache
+D:\Winforms作业\ComputerManager\ComputerManager\obj\Debug\ComputerManager.exe
+D:\Winforms作业\ComputerManager\ComputerManager\obj\Debug\ComputerManager.pdb

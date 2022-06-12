@@ -1,0 +1,8 @@
+D:\Winforms作业\4月11日下午作业\C井连接数据库\bin\Debug\C井连接数据库.exe.config
+D:\Winforms作业\4月11日下午作业\C井连接数据库\bin\Debug\C井连接数据库.exe
+D:\Winforms作业\4月11日下午作业\C井连接数据库\bin\Debug\C井连接数据库.pdb
+D:\Winforms作业\4月11日下午作业\C井连接数据库\obj\Debug\C井连接数据库.csproj.AssemblyReference.cache
+D:\Winforms作业\4月11日下午作业\C井连接数据库\obj\Debug\C井连接数据库.csproj.SuggestedBindingRedirects.cache
+D:\Winforms作业\4月11日下午作业\C井连接数据库\obj\Debug\C井连接数据库.csproj.CoreCompileInputs.cache
+D:\Winforms作业\4月11日下午作业\C井连接数据库\obj\Debug\C井连接数据库.exe
+D:\Winforms作业\4月11日下午作业\C井连接数据库\obj\Debug\C井连接数据库.pdb

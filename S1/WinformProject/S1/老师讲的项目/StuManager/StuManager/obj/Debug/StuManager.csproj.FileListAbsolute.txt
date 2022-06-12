@@ -1,0 +1,10 @@
+E:\【各班级课堂】\S1T100\StuManager\StuManager\bin\Debug\StuManager.exe.config
+E:\【各班级课堂】\S1T100\StuManager\StuManager\bin\Debug\StuManager.exe
+E:\【各班级课堂】\S1T100\StuManager\StuManager\bin\Debug\StuManager.pdb
+E:\【各班级课堂】\S1T100\StuManager\StuManager\obj\Debug\StuManager.csprojResolveAssemblyReference.cache
+E:\【各班级课堂】\S1T100\StuManager\StuManager\obj\Debug\StuManager.frmMain.resources
+E:\【各班级课堂】\S1T100\StuManager\StuManager\obj\Debug\StuManager.Properties.Resources.resources
+E:\【各班级课堂】\S1T100\StuManager\StuManager\obj\Debug\StuManager.csproj.GenerateResource.Cache
+E:\【各班级课堂】\S1T100\StuManager\StuManager\obj\Debug\StuManager.exe
+E:\【各班级课堂】\S1T100\StuManager\StuManager\obj\Debug\StuManager.pdb
+E:\【各班级课堂】\S1T100\StuManager\StuManager\obj\Debug\StuManager.frmSearch.resources

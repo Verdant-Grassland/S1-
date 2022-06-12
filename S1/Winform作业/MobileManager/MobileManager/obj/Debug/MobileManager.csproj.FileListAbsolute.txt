@@ -1,0 +1,11 @@
+D:\Winform作业\MobileManager\MobileManager\obj\Debug\MobileManager.csproj.AssemblyReference.cache
+D:\Winform作业\MobileManager\MobileManager\obj\Debug\MobileManager.csproj.SuggestedBindingRedirects.cache
+D:\Winform作业\MobileManager\MobileManager\obj\Debug\MobileManager.FrmMobile.resources
+D:\Winform作业\MobileManager\MobileManager\obj\Debug\MobileManager.Properties.Resources.resources
+D:\Winform作业\MobileManager\MobileManager\obj\Debug\MobileManager.csproj.GenerateResource.cache
+D:\Winform作业\MobileManager\MobileManager\obj\Debug\MobileManager.csproj.CoreCompileInputs.cache
+D:\Winform作业\MobileManager\MobileManager\bin\Debug\MobileManager.exe.config
+D:\Winform作业\MobileManager\MobileManager\bin\Debug\MobileManager.exe
+D:\Winform作业\MobileManager\MobileManager\bin\Debug\MobileManager.pdb
+D:\Winform作业\MobileManager\MobileManager\obj\Debug\MobileManager.exe
+D:\Winform作业\MobileManager\MobileManager\obj\Debug\MobileManager.pdb

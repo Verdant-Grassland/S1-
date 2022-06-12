@@ -1,0 +1,8 @@
+E:\WinformsProject\Ticket\Ticket\bin\Release\Ticket.exe.config
+E:\WinformsProject\Ticket\Ticket\bin\Release\Ticket.exe
+E:\WinformsProject\Ticket\Ticket\bin\Release\Ticket.pdb
+E:\WinformsProject\Ticket\Ticket\obj\Release\Ticket.frmMain.resources
+E:\WinformsProject\Ticket\Ticket\obj\Release\Ticket.Properties.Resources.resources
+E:\WinformsProject\Ticket\Ticket\obj\Release\Ticket.csproj.GenerateResource.Cache
+E:\WinformsProject\Ticket\Ticket\obj\Release\Ticket.exe
+E:\WinformsProject\Ticket\Ticket\obj\Release\Ticket.pdb

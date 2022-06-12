@@ -1,6 +1,0 @@
-E:\C#Project\ArrayCalc\ArrayCalc\bin\Debug\ArrayCalc.exe.config
-E:\C#Project\ArrayCalc\ArrayCalc\obj\Debug\ArrayCalc.csprojResolveAssemblyReference.cache
-E:\C#Project\ArrayCalc\ArrayCalc\bin\Debug\ArrayCalc.exe
-E:\C#Project\ArrayCalc\ArrayCalc\bin\Debug\ArrayCalc.pdb
-E:\C#Project\ArrayCalc\ArrayCalc\obj\Debug\ArrayCalc.exe
-E:\C#Project\ArrayCalc\ArrayCalc\obj\Debug\ArrayCalc.pdb

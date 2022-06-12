@@ -1,0 +1,13 @@
+D:\Winform作业\AutoSys\AutoSys\bin\Debug\AutoSys.exe.config
+D:\Winform作业\AutoSys\AutoSys\bin\Debug\AutoSys.exe
+D:\Winform作业\AutoSys\AutoSys\bin\Debug\AutoSys.pdb
+D:\Winform作业\AutoSys\AutoSys\obj\Debug\AutoSys.csproj.AssemblyReference.cache
+D:\Winform作业\AutoSys\AutoSys\obj\Debug\AutoSys.csproj.SuggestedBindingRedirects.cache
+D:\Winform作业\AutoSys\AutoSys\obj\Debug\AutoSys.frmMain.resources
+D:\Winform作业\AutoSys\AutoSys\obj\Debug\AutoSys.frmSearch.resources
+D:\Winform作业\AutoSys\AutoSys\obj\Debug\AutoSys.Properties.Resources.resources
+D:\Winform作业\AutoSys\AutoSys\obj\Debug\AutoSys.csproj.GenerateResource.cache
+D:\Winform作业\AutoSys\AutoSys\obj\Debug\AutoSys.csproj.CoreCompileInputs.cache
+D:\Winform作业\AutoSys\AutoSys\obj\Debug\AutoSys.exe
+D:\Winform作业\AutoSys\AutoSys\obj\Debug\AutoSys.pdb
+D:\Winform作业\AutoSys\AutoSys\obj\Debug\AutoSys.frmAdd.resources

@@ -1,0 +1,11 @@
+D:\WinformsProject\QQList\QQList\bin\Debug\QQList.exe.config
+D:\WinformsProject\QQList\QQList\bin\Debug\QQList.exe
+D:\WinformsProject\QQList\QQList\bin\Debug\QQList.pdb
+D:\WinformsProject\QQList\QQList\obj\Debug\QQList.csproj.AssemblyReference.cache
+D:\WinformsProject\QQList\QQList\obj\Debug\QQList.csproj.SuggestedBindingRedirects.cache
+D:\WinformsProject\QQList\QQList\obj\Debug\QQList.Form1.resources
+D:\WinformsProject\QQList\QQList\obj\Debug\QQList.Properties.Resources.resources
+D:\WinformsProject\QQList\QQList\obj\Debug\QQList.csproj.GenerateResource.cache
+D:\WinformsProject\QQList\QQList\obj\Debug\QQList.csproj.CoreCompileInputs.cache
+D:\WinformsProject\QQList\QQList\obj\Debug\QQList.exe
+D:\WinformsProject\QQList\QQList\obj\Debug\QQList.pdb

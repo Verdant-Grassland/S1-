@@ -1,0 +1,12 @@
+D:\WinformProject\S2\MyOffice\MyOffice\bin\Debug\MyOffice.exe.config
+D:\WinformProject\S2\MyOffice\MyOffice\bin\Debug\MyOffice.exe
+D:\WinformProject\S2\MyOffice\MyOffice\bin\Debug\MyOffice.pdb
+D:\WinformProject\S2\MyOffice\MyOffice\obj\Debug\MyOffice.csproj.AssemblyReference.cache
+D:\WinformProject\S2\MyOffice\MyOffice\obj\Debug\MyOffice.csproj.SuggestedBindingRedirects.cache
+D:\WinformProject\S2\MyOffice\MyOffice\obj\Debug\MyOffice.FrmJudge.resources
+D:\WinformProject\S2\MyOffice\MyOffice\obj\Debug\MyOffice.FrmShow.resources
+D:\WinformProject\S2\MyOffice\MyOffice\obj\Debug\MyOffice.Properties.Resources.resources
+D:\WinformProject\S2\MyOffice\MyOffice\obj\Debug\MyOffice.csproj.GenerateResource.cache
+D:\WinformProject\S2\MyOffice\MyOffice\obj\Debug\MyOffice.csproj.CoreCompileInputs.cache
+D:\WinformProject\S2\MyOffice\MyOffice\obj\Debug\MyOffice.exe
+D:\WinformProject\S2\MyOffice\MyOffice\obj\Debug\MyOffice.pdb

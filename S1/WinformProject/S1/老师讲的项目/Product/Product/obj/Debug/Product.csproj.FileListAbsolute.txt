@@ -1,0 +1,11 @@
+E:\【各班级课堂】\S1T100\Product\Product\bin\Debug\Product.exe.config
+E:\【各班级课堂】\S1T100\Product\Product\bin\Debug\Product.exe
+E:\【各班级课堂】\S1T100\Product\Product\bin\Debug\Product.pdb
+E:\【各班级课堂】\S1T100\Product\Product\obj\Debug\Product.csprojResolveAssemblyReference.cache
+E:\【各班级课堂】\S1T100\Product\Product\obj\Debug\Product.frmAdd.resources
+E:\【各班级课堂】\S1T100\Product\Product\obj\Debug\Product.frmMain.resources
+E:\【各班级课堂】\S1T100\Product\Product\obj\Debug\Product.frmSearch.resources
+E:\【各班级课堂】\S1T100\Product\Product\obj\Debug\Product.Properties.Resources.resources
+E:\【各班级课堂】\S1T100\Product\Product\obj\Debug\Product.csproj.GenerateResource.Cache
+E:\【各班级课堂】\S1T100\Product\Product\obj\Debug\Product.exe
+E:\【各班级课堂】\S1T100\Product\Product\obj\Debug\Product.pdb

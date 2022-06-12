@@ -1,0 +1,10 @@
+E:\S1T100\Organizations\Organizations\bin\Debug\Organizations.exe.config
+E:\S1T100\Organizations\Organizations\bin\Debug\Organizations.exe
+E:\S1T100\Organizations\Organizations\bin\Debug\Organizations.pdb
+E:\S1T100\Organizations\Organizations\obj\Debug\Organizations.csprojResolveAssemblyReference.cache
+E:\S1T100\Organizations\Organizations\obj\Debug\Organizations.FrmAdd.resources
+E:\S1T100\Organizations\Organizations\obj\Debug\Organizations.FrmMain.resources
+E:\S1T100\Organizations\Organizations\obj\Debug\Organizations.Properties.Resources.resources
+E:\S1T100\Organizations\Organizations\obj\Debug\Organizations.csproj.GenerateResource.Cache
+E:\S1T100\Organizations\Organizations\obj\Debug\Organizations.exe
+E:\S1T100\Organizations\Organizations\obj\Debug\Organizations.pdb

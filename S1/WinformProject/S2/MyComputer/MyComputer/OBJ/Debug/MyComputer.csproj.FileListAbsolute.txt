@@ -1,0 +1,12 @@
+G:\C#产品开发\自己编写的学生用书\第二章\上机答案\上机二\MyComputer\MyComputer\bin\Debug\MyComputer.exe.config
+G:\C#产品开发\自己编写的学生用书\第二章\上机答案\上机二\MyComputer\MyComputer\bin\Debug\MyComputer.exe
+G:\C#产品开发\自己编写的学生用书\第二章\上机答案\上机二\MyComputer\MyComputer\bin\Debug\MyComputer.pdb
+G:\C#产品开发\自己编写的学生用书\第二章\上机答案\上机二\MyComputer\MyComputer\obj\Debug\MyComputer.csprojResolveAssemblyReference.cache
+G:\C#产品开发\自己编写的学生用书\第二章\上机答案\上机二\MyComputer\MyComputer\obj\Debug\MyComputer.exe
+G:\C#产品开发\自己编写的学生用书\第二章\上机答案\上机二\MyComputer\MyComputer\obj\Debug\MyComputer.pdb
+G:\C#产品开发\自己编写的学生用书\第二章\上机答案\练习二：生成设备ID\MyComputer\bin\Debug\MyComputer.exe.config
+G:\C#产品开发\自己编写的学生用书\第二章\上机答案\练习二：生成设备ID\MyComputer\obj\Debug\MyComputer.exe
+G:\C#产品开发\自己编写的学生用书\第二章\上机答案\练习二：生成设备ID\MyComputer\obj\Debug\MyComputer.pdb
+G:\C#产品开发\自己编写的学生用书\第二章\上机答案\练习二：生成设备ID\MyComputer\bin\Debug\MyComputer.exe
+G:\C#产品开发\自己编写的学生用书\第二章\上机答案\练习二：生成设备ID\MyComputer\bin\Debug\MyComputer.pdb
+G:\C#产品开发\自己编写的学生用书\第二章\上机答案\练习二：生成设备ID\MyComputer\obj\Debug\MyComputer.csprojResolveAssemblyReference.cache

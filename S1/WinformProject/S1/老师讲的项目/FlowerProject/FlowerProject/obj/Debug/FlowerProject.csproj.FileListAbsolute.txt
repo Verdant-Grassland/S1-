@@ -1,0 +1,9 @@
+E:\C#Project\FlowerProject\FlowerProject\bin\Debug\FlowerProject.exe.config
+E:\C#Project\FlowerProject\FlowerProject\bin\Debug\FlowerProject.exe
+E:\C#Project\FlowerProject\FlowerProject\bin\Debug\FlowerProject.pdb
+E:\C#Project\FlowerProject\FlowerProject\obj\Debug\FlowerProject.csprojResolveAssemblyReference.cache
+E:\C#Project\FlowerProject\FlowerProject\obj\Debug\FlowerProject.exe
+E:\C#Project\FlowerProject\FlowerProject\obj\Debug\FlowerProject.pdb
+E:\【各班级课堂】\S1T100\FlowerProject\FlowerProject\bin\Debug\FlowerProject.exe.config
+E:\【各班级课堂】\S1T100\FlowerProject\FlowerProject\obj\Debug\FlowerProject.exe
+E:\【各班级课堂】\S1T100\FlowerProject\FlowerProject\obj\Debug\FlowerProject.pdb

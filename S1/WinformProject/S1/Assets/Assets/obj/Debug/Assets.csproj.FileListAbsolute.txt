@@ -1,0 +1,13 @@
+D:\WinformProject\S1\Assets\Assets\bin\Debug\Assets.exe.config
+D:\WinformProject\S1\Assets\Assets\bin\Debug\Assets.exe
+D:\WinformProject\S1\Assets\Assets\bin\Debug\Assets.pdb
+D:\WinformProject\S1\Assets\Assets\obj\Debug\Assets.csproj.AssemblyReference.cache
+D:\WinformProject\S1\Assets\Assets\obj\Debug\Assets.csproj.SuggestedBindingRedirects.cache
+D:\WinformProject\S1\Assets\Assets\obj\Debug\Assets.FrmAdd.resources
+D:\WinformProject\S1\Assets\Assets\obj\Debug\Assets.FrmMain.resources
+D:\WinformProject\S1\Assets\Assets\obj\Debug\Assets.FrmSearch.resources
+D:\WinformProject\S1\Assets\Assets\obj\Debug\Assets.Properties.Resources.resources
+D:\WinformProject\S1\Assets\Assets\obj\Debug\Assets.csproj.GenerateResource.cache
+D:\WinformProject\S1\Assets\Assets\obj\Debug\Assets.csproj.CoreCompileInputs.cache
+D:\WinformProject\S1\Assets\Assets\obj\Debug\Assets.exe
+D:\WinformProject\S1\Assets\Assets\obj\Debug\Assets.pdb

@@ -1,0 +1,6 @@
+G:\C#产品开发\自己编写的学生用书\第二章\上机答案\上机一\PointsAPP\PointsAPP\bin\Debug\PointsAPP.exe.config
+G:\C#产品开发\自己编写的学生用书\第二章\上机答案\上机一\PointsAPP\PointsAPP\bin\Debug\PointsAPP.exe
+G:\C#产品开发\自己编写的学生用书\第二章\上机答案\上机一\PointsAPP\PointsAPP\bin\Debug\PointsAPP.pdb
+G:\C#产品开发\自己编写的学生用书\第二章\上机答案\上机一\PointsAPP\PointsAPP\obj\Debug\PointsAPP.csprojResolveAssemblyReference.cache
+G:\C#产品开发\自己编写的学生用书\第二章\上机答案\上机一\PointsAPP\PointsAPP\obj\Debug\PointsAPP.exe
+G:\C#产品开发\自己编写的学生用书\第二章\上机答案\上机一\PointsAPP\PointsAPP\obj\Debug\PointsAPP.pdb

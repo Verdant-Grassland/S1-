@@ -1,0 +1,11 @@
+D:\WinformsProject\BookRecord\BookRecord\bin\Debug\4月11日下午作业.exe.config
+D:\WinformsProject\BookRecord\BookRecord\bin\Debug\4月11日下午作业.exe
+D:\WinformsProject\BookRecord\BookRecord\bin\Debug\4月11日下午作业.pdb
+D:\WinformsProject\BookRecord\BookRecord\obj\Debug\BookRecord.csproj.AssemblyReference.cache
+D:\WinformsProject\BookRecord\BookRecord\obj\Debug\BookRecord.csproj.SuggestedBindingRedirects.cache
+D:\WinformsProject\BookRecord\BookRecord\obj\Debug\BookRecord.frmMain.resources
+D:\WinformsProject\BookRecord\BookRecord\obj\Debug\_4月11日下午作业.Properties.Resources.resources
+D:\WinformsProject\BookRecord\BookRecord\obj\Debug\BookRecord.csproj.GenerateResource.cache
+D:\WinformsProject\BookRecord\BookRecord\obj\Debug\BookRecord.csproj.CoreCompileInputs.cache
+D:\WinformsProject\BookRecord\BookRecord\obj\Debug\4月11日下午作业.exe
+D:\WinformsProject\BookRecord\BookRecord\obj\Debug\4月11日下午作业.pdb

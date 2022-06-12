@@ -1,0 +1,7 @@
+D:\Winforms作业\StudentManager\StudentManager\obj\Release\StudentManager.csproj.AssemblyReference.cache
+D:\Winforms作业\StudentManager\StudentManager\obj\Release\StudentManager.csproj.SuggestedBindingRedirects.cache
+D:\Winforms作业\StudentManager\StudentManager\obj\Release\StudentManager.frmMain.resources
+D:\Winforms作业\StudentManager\StudentManager\obj\Release\StudentManager.frmAddStu.resources
+D:\Winforms作业\StudentManager\StudentManager\obj\Release\StudentManager.Properties.Resources.resources
+D:\Winforms作业\StudentManager\StudentManager\obj\Release\StudentManager.csproj.GenerateResource.cache
+D:\Winforms作业\StudentManager\StudentManager\obj\Release\StudentManager.csproj.CoreCompileInputs.cache

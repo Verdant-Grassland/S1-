@@ -1,0 +1,12 @@
+D:\WinformsProject\Organization\Organization\bin\Debug\4月18日.exe.config
+D:\WinformsProject\Organization\Organization\bin\Debug\4月18日.exe
+D:\WinformsProject\Organization\Organization\bin\Debug\4月18日.pdb
+D:\WinformsProject\Organization\Organization\obj\Debug\Organization.csproj.AssemblyReference.cache
+D:\WinformsProject\Organization\Organization\obj\Debug\Organization.csproj.SuggestedBindingRedirects.cache
+D:\WinformsProject\Organization\Organization\obj\Debug\Organization.frmMain.resources
+D:\WinformsProject\Organization\Organization\obj\Debug\_4月18日.Properties.Resources.resources
+D:\WinformsProject\Organization\Organization\obj\Debug\Organization.frmAdd.resources
+D:\WinformsProject\Organization\Organization\obj\Debug\Organization.csproj.GenerateResource.cache
+D:\WinformsProject\Organization\Organization\obj\Debug\Organization.csproj.CoreCompileInputs.cache
+D:\WinformsProject\Organization\Organization\obj\Debug\4月18日.exe
+D:\WinformsProject\Organization\Organization\obj\Debug\4月18日.pdb

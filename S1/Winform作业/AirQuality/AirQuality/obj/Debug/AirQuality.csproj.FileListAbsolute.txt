@@ -1,0 +1,13 @@
+D:\Winform作业\AirQuality\AirQuality\bin\Debug\AirQuality.exe.config
+D:\Winform作业\AirQuality\AirQuality\bin\Debug\AirQuality.exe
+D:\Winform作业\AirQuality\AirQuality\bin\Debug\AirQuality.pdb
+D:\Winform作业\AirQuality\AirQuality\obj\Debug\AirQuality.csproj.AssemblyReference.cache
+D:\Winform作业\AirQuality\AirQuality\obj\Debug\AirQuality.csproj.SuggestedBindingRedirects.cache
+D:\Winform作业\AirQuality\AirQuality\obj\Debug\AirQuality.FrmAdd.resources
+D:\Winform作业\AirQuality\AirQuality\obj\Debug\AirQuality.FrmMain.resources
+D:\Winform作业\AirQuality\AirQuality\obj\Debug\AirQuality.Properties.Resources.resources
+D:\Winform作业\AirQuality\AirQuality\obj\Debug\AirQuality.csproj.GenerateResource.cache
+D:\Winform作业\AirQuality\AirQuality\obj\Debug\AirQuality.csproj.CoreCompileInputs.cache
+D:\Winform作业\AirQuality\AirQuality\obj\Debug\AirQuality.exe
+D:\Winform作业\AirQuality\AirQuality\obj\Debug\AirQuality.pdb
+D:\Winform作业\AirQuality\AirQuality\obj\Debug\AirQuality.FrmSearch.resources

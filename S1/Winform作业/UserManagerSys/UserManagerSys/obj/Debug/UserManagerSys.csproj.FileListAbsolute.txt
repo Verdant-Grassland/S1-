@@ -1,0 +1,12 @@
+D:\Winform作业\UserManagerSys\UserManagerSys\bin\Debug\UserManagerSys.exe.config
+D:\Winform作业\UserManagerSys\UserManagerSys\bin\Debug\UserManagerSys.exe
+D:\Winform作业\UserManagerSys\UserManagerSys\bin\Debug\UserManagerSys.pdb
+D:\Winform作业\UserManagerSys\UserManagerSys\obj\Debug\UserManagerSys.csproj.AssemblyReference.cache
+D:\Winform作业\UserManagerSys\UserManagerSys\obj\Debug\UserManagerSys.csproj.SuggestedBindingRedirects.cache
+D:\Winform作业\UserManagerSys\UserManagerSys\obj\Debug\UserManagerSys.FrmMain.resources
+D:\Winform作业\UserManagerSys\UserManagerSys\obj\Debug\UserManagerSys.FrmSearch.resources
+D:\Winform作业\UserManagerSys\UserManagerSys\obj\Debug\UserManagerSys.Properties.Resources.resources
+D:\Winform作业\UserManagerSys\UserManagerSys\obj\Debug\UserManagerSys.csproj.GenerateResource.cache
+D:\Winform作业\UserManagerSys\UserManagerSys\obj\Debug\UserManagerSys.csproj.CoreCompileInputs.cache
+D:\Winform作业\UserManagerSys\UserManagerSys\obj\Debug\UserManagerSys.exe
+D:\Winform作业\UserManagerSys\UserManagerSys\obj\Debug\UserManagerSys.pdb

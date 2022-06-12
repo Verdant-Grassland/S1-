@@ -1,0 +1,9 @@
+E:\WinformsProject\ListViewIcon\ListViewIcon\bin\Debug\ListViewIcon.exe.config
+E:\WinformsProject\ListViewIcon\ListViewIcon\bin\Debug\ListViewIcon.exe
+E:\WinformsProject\ListViewIcon\ListViewIcon\bin\Debug\ListViewIcon.pdb
+E:\WinformsProject\ListViewIcon\ListViewIcon\obj\Debug\ListViewIcon.csprojResolveAssemblyReference.cache
+E:\WinformsProject\ListViewIcon\ListViewIcon\obj\Debug\ListViewIcon.FrmMain.resources
+E:\WinformsProject\ListViewIcon\ListViewIcon\obj\Debug\ListViewIcon.Properties.Resources.resources
+E:\WinformsProject\ListViewIcon\ListViewIcon\obj\Debug\ListViewIcon.csproj.GenerateResource.Cache
+E:\WinformsProject\ListViewIcon\ListViewIcon\obj\Debug\ListViewIcon.exe
+E:\WinformsProject\ListViewIcon\ListViewIcon\obj\Debug\ListViewIcon.pdb

@@ -1,0 +1,10 @@
+E:\S1T100\Employee\Employee\bin\Debug\Employee.exe.config
+E:\S1T100\Employee\Employee\bin\Debug\Employee.exe
+E:\S1T100\Employee\Employee\bin\Debug\Employee.pdb
+E:\S1T100\Employee\Employee\obj\Debug\Employee.csprojResolveAssemblyReference.cache
+E:\S1T100\Employee\Employee\obj\Debug\Employee.FrmAdd.resources
+E:\S1T100\Employee\Employee\obj\Debug\Employee.FrmMain.resources
+E:\S1T100\Employee\Employee\obj\Debug\Employee.Properties.Resources.resources
+E:\S1T100\Employee\Employee\obj\Debug\Employee.csproj.GenerateResource.Cache
+E:\S1T100\Employee\Employee\obj\Debug\Employee.exe
+E:\S1T100\Employee\Employee\obj\Debug\Employee.pdb

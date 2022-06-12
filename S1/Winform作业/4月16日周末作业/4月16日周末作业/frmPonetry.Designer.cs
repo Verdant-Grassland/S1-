@@ -1,0 +1,243 @@
+﻿namespace _4月16日周末作业
+{
+    partial class frmPonetry
+    {
+        /// <summary>
+        /// Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        /// Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        /// Required method for Designer support - do not modify
+        /// the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            this.lbIName = new System.Windows.Forms.Label();
+            this.txtName = new System.Windows.Forms.TextBox();
+            this.lbIType = new System.Windows.Forms.Label();
+            this.cboType = new System.Windows.Forms.ComboBox();
+            this.lbIPbsTime = new System.Windows.Forms.Label();
+            this.txtPbsTime = new System.Windows.Forms.TextBox();
+            this.lbILseTime = new System.Windows.Forms.Label();
+            this.txtLseTime = new System.Windows.Forms.TextBox();
+            this.lbISelPrice = new System.Windows.Forms.Label();
+            this.lbICompany = new System.Windows.Forms.Label();
+            this.txtSelPrice = new System.Windows.Forms.TextBox();
+            this.txtCompany = new System.Windows.Forms.TextBox();
+            this.lbIWriter = new System.Windows.Forms.Label();
+            this.txtWriter = new System.Windows.Forms.TextBox();
+            this.btnSubmint = new System.Windows.Forms.Button();
+            this.btnUnselectAll = new System.Windows.Forms.Button();
+            this.btnClose = new System.Windows.Forms.Button();
+            this.SuspendLayout();
+            // 
+            // lbIName
+            // 
+            this.lbIName.AutoSize = true;
+            this.lbIName.Location = new System.Drawing.Point(41, 47);
+            this.lbIName.Name = "lbIName";
+            this.lbIName.Size = new System.Drawing.Size(82, 15);
+            this.lbIName.TabIndex = 0;
+            this.lbIName.Text = "产品名称：";
+            // 
+            // txtName
+            // 
+            this.txtName.Location = new System.Drawing.Point(150, 46);
+            this.txtName.Name = "txtName";
+            this.txtName.Size = new System.Drawing.Size(184, 25);
+            this.txtName.TabIndex = 1;
+            // 
+            // lbIType
+            // 
+            this.lbIType.AutoSize = true;
+            this.lbIType.Location = new System.Drawing.Point(387, 47);
+            this.lbIType.Name = "lbIType";
+            this.lbIType.Size = new System.Drawing.Size(82, 15);
+            this.lbIType.TabIndex = 0;
+            this.lbIType.Text = "产品类别：";
+            // 
+            // cboType
+            // 
+            this.cboType.FormattingEnabled = true;
+            this.cboType.Location = new System.Drawing.Point(501, 46);
+            this.cboType.Name = "cboType";
+            this.cboType.Size = new System.Drawing.Size(184, 23);
+            this.cboType.TabIndex = 2;
+            // 
+            // lbIPbsTime
+            // 
+            this.lbIPbsTime.AutoSize = true;
+            this.lbIPbsTime.Location = new System.Drawing.Point(42, 127);
+            this.lbIPbsTime.Name = "lbIPbsTime";
+            this.lbIPbsTime.Size = new System.Drawing.Size(82, 15);
+            this.lbIPbsTime.TabIndex = 0;
+            this.lbIPbsTime.Text = "发布时间：";
+            // 
+            // txtPbsTime
+            // 
+            this.txtPbsTime.Location = new System.Drawing.Point(151, 124);
+            this.txtPbsTime.Name = "txtPbsTime";
+            this.txtPbsTime.Size = new System.Drawing.Size(184, 25);
+            this.txtPbsTime.TabIndex = 1;
+            // 
+            // lbILseTime
+            // 
+            this.lbILseTime.AutoSize = true;
+            this.lbILseTime.Location = new System.Drawing.Point(388, 127);
+            this.lbILseTime.Name = "lbILseTime";
+            this.lbILseTime.Size = new System.Drawing.Size(82, 15);
+            this.lbILseTime.TabIndex = 0;
+            this.lbILseTime.Text = "上市时间：";
+            // 
+            // txtLseTime
+            // 
+            this.txtLseTime.Location = new System.Drawing.Point(502, 124);
+            this.txtLseTime.Name = "txtLseTime";
+            this.txtLseTime.Size = new System.Drawing.Size(184, 25);
+            this.txtLseTime.TabIndex = 1;
+            // 
+            // lbISelPrice
+            // 
+            this.lbISelPrice.AutoSize = true;
+            this.lbISelPrice.Location = new System.Drawing.Point(41, 207);
+            this.lbISelPrice.Name = "lbISelPrice";
+            this.lbISelPrice.Size = new System.Drawing.Size(52, 15);
+            this.lbISelPrice.TabIndex = 0;
+            this.lbISelPrice.Text = "售价：";
+            // 
+            // lbICompany
+            // 
+            this.lbICompany.AutoSize = true;
+            this.lbICompany.Location = new System.Drawing.Point(387, 207);
+            this.lbICompany.Name = "lbICompany";
+            this.lbICompany.Size = new System.Drawing.Size(82, 15);
+            this.lbICompany.TabIndex = 0;
+            this.lbICompany.Text = "所属公司：";
+            // 
+            // txtSelPrice
+            // 
+            this.txtSelPrice.Location = new System.Drawing.Point(150, 204);
+            this.txtSelPrice.Name = "txtSelPrice";
+            this.txtSelPrice.Size = new System.Drawing.Size(184, 25);
+            this.txtSelPrice.TabIndex = 1;
+            // 
+            // txtCompany
+            // 
+            this.txtCompany.Location = new System.Drawing.Point(501, 204);
+            this.txtCompany.Name = "txtCompany";
+            this.txtCompany.Size = new System.Drawing.Size(184, 25);
+            this.txtCompany.TabIndex = 1;
+            // 
+            // lbIWriter
+            // 
+            this.lbIWriter.AutoSize = true;
+            this.lbIWriter.Location = new System.Drawing.Point(42, 287);
+            this.lbIWriter.Name = "lbIWriter";
+            this.lbIWriter.Size = new System.Drawing.Size(82, 15);
+            this.lbIWriter.TabIndex = 0;
+            this.lbIWriter.Text = "录入人员：";
+            // 
+            // txtWriter
+            // 
+            this.txtWriter.Location = new System.Drawing.Point(151, 284);
+            this.txtWriter.Name = "txtWriter";
+            this.txtWriter.Size = new System.Drawing.Size(184, 25);
+            this.txtWriter.TabIndex = 1;
+            // 
+            // btnSubmint
+            // 
+            this.btnSubmint.Location = new System.Drawing.Point(131, 361);
+            this.btnSubmint.Name = "btnSubmint";
+            this.btnSubmint.Size = new System.Drawing.Size(111, 35);
+            this.btnSubmint.TabIndex = 3;
+            this.btnSubmint.Text = "提交";
+            this.btnSubmint.UseVisualStyleBackColor = true;
+            this.btnSubmint.Click += new System.EventHandler(this.proSubmint_Click);
+            // 
+            // btnUnselectAll
+            // 
+            this.btnUnselectAll.Location = new System.Drawing.Point(314, 361);
+            this.btnUnselectAll.Name = "btnUnselectAll";
+            this.btnUnselectAll.Size = new System.Drawing.Size(111, 35);
+            this.btnUnselectAll.TabIndex = 3;
+            this.btnUnselectAll.Text = "全部清空";
+            this.btnUnselectAll.UseVisualStyleBackColor = true;
+            this.btnUnselectAll.Click += new System.EventHandler(this.btnUnselectAll_Click);
+            // 
+            // btnClose
+            // 
+            this.btnClose.Location = new System.Drawing.Point(497, 361);
+            this.btnClose.Name = "btnClose";
+            this.btnClose.Size = new System.Drawing.Size(111, 35);
+            this.btnClose.TabIndex = 3;
+            this.btnClose.Text = "关闭";
+            this.btnClose.UseVisualStyleBackColor = true;
+            this.btnClose.Click += new System.EventHandler(this.btnClose_Click);
+            // 
+            // frmPonetry
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 15F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.btnClose);
+            this.Controls.Add(this.btnUnselectAll);
+            this.Controls.Add(this.btnSubmint);
+            this.Controls.Add(this.cboType);
+            this.Controls.Add(this.txtCompany);
+            this.Controls.Add(this.txtLseTime);
+            this.Controls.Add(this.txtWriter);
+            this.Controls.Add(this.txtSelPrice);
+            this.Controls.Add(this.txtPbsTime);
+            this.Controls.Add(this.lbICompany);
+            this.Controls.Add(this.txtName);
+            this.Controls.Add(this.lbIWriter);
+            this.Controls.Add(this.lbILseTime);
+            this.Controls.Add(this.lbISelPrice);
+            this.Controls.Add(this.lbIType);
+            this.Controls.Add(this.lbIPbsTime);
+            this.Controls.Add(this.lbIName);
+            this.Name = "frmPonetry";
+            this.Text = "产品信息录入";
+            this.Load += new System.EventHandler(this.frmPonetry_Load);
+            this.ResumeLayout(false);
+            this.PerformLayout();
+
+        }
+
+        #endregion
+
+        private System.Windows.Forms.Label lbIName;
+        private System.Windows.Forms.TextBox txtName;
+        private System.Windows.Forms.Label lbIType;
+        private System.Windows.Forms.ComboBox cboType;
+        private System.Windows.Forms.Label lbIPbsTime;
+        private System.Windows.Forms.TextBox txtPbsTime;
+        private System.Windows.Forms.Label lbILseTime;
+        private System.Windows.Forms.TextBox txtLseTime;
+        private System.Windows.Forms.Label lbISelPrice;
+        private System.Windows.Forms.Label lbICompany;
+        private System.Windows.Forms.TextBox txtSelPrice;
+        private System.Windows.Forms.TextBox txtCompany;
+        private System.Windows.Forms.Label lbIWriter;
+        private System.Windows.Forms.TextBox txtWriter;
+        private System.Windows.Forms.Button btnSubmint;
+        private System.Windows.Forms.Button btnUnselectAll;
+        private System.Windows.Forms.Button btnClose;
+    }
+}

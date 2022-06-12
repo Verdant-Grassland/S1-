@@ -1,0 +1,12 @@
+E:\S1T100\BookRecord\BookRecord\bin\Debug\BookRecord.exe.config
+E:\S1T100\BookRecord\BookRecord\bin\Debug\BookRecord.exe
+E:\S1T100\BookRecord\BookRecord\bin\Debug\BookRecord.pdb
+E:\S1T100\BookRecord\BookRecord\obj\Debug\BookRecord.csprojResolveAssemblyReference.cache
+E:\S1T100\BookRecord\BookRecord\obj\Debug\BookRecord.FrmMain.resources
+E:\S1T100\BookRecord\BookRecord\obj\Debug\BookRecord.Properties.Resources.resources
+E:\S1T100\BookRecord\BookRecord\obj\Debug\BookRecord.csproj.GenerateResource.Cache
+E:\S1T100\BookRecord\BookRecord\obj\Debug\BookRecord.exe
+E:\S1T100\BookRecord\BookRecord\obj\Debug\BookRecord.pdb
+E:\【各班级课堂】\S1T100\BookRecord\BookRecord\bin\Debug\BookRecord.exe.config
+E:\【各班级课堂】\S1T100\BookRecord\BookRecord\obj\Debug\BookRecord.exe
+E:\【各班级课堂】\S1T100\BookRecord\BookRecord\obj\Debug\BookRecord.pdb

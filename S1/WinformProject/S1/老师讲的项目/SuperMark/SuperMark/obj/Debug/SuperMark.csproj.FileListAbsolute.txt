@@ -1,0 +1,9 @@
+E:\【各班级课堂】\S1T100\SuperMark\SuperMark\bin\Debug\SuperMark.exe.config
+E:\【各班级课堂】\S1T100\SuperMark\SuperMark\bin\Debug\SuperMark.exe
+E:\【各班级课堂】\S1T100\SuperMark\SuperMark\bin\Debug\SuperMark.pdb
+E:\【各班级课堂】\S1T100\SuperMark\SuperMark\obj\Debug\SuperMark.csprojResolveAssemblyReference.cache
+E:\【各班级课堂】\S1T100\SuperMark\SuperMark\obj\Debug\SuperMark.frmMain.resources
+E:\【各班级课堂】\S1T100\SuperMark\SuperMark\obj\Debug\SuperMark.Properties.Resources.resources
+E:\【各班级课堂】\S1T100\SuperMark\SuperMark\obj\Debug\SuperMark.csproj.GenerateResource.Cache
+E:\【各班级课堂】\S1T100\SuperMark\SuperMark\obj\Debug\SuperMark.exe
+E:\【各班级课堂】\S1T100\SuperMark\SuperMark\obj\Debug\SuperMark.pdb

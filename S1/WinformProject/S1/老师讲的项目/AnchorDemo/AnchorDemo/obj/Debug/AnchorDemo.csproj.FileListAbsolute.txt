@@ -1,0 +1,8 @@
+E:\S1T100\AnchorDemo\AnchorDemo\bin\Debug\AnchorDemo.exe.config
+E:\S1T100\AnchorDemo\AnchorDemo\bin\Debug\AnchorDemo.exe
+E:\S1T100\AnchorDemo\AnchorDemo\bin\Debug\AnchorDemo.pdb
+E:\S1T100\AnchorDemo\AnchorDemo\obj\Debug\AnchorDemo.Form1.resources
+E:\S1T100\AnchorDemo\AnchorDemo\obj\Debug\AnchorDemo.Properties.Resources.resources
+E:\S1T100\AnchorDemo\AnchorDemo\obj\Debug\AnchorDemo.csproj.GenerateResource.Cache
+E:\S1T100\AnchorDemo\AnchorDemo\obj\Debug\AnchorDemo.exe
+E:\S1T100\AnchorDemo\AnchorDemo\obj\Debug\AnchorDemo.pdb

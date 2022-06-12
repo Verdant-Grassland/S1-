@@ -1,0 +1,13 @@
+D:\WinformProject\S2\MyWarcraft\MyWarcraft\bin\Debug\MyWarcraft.exe.config
+D:\WinformProject\S2\MyWarcraft\MyWarcraft\bin\Debug\MyWarcraft.exe
+D:\WinformProject\S2\MyWarcraft\MyWarcraft\bin\Debug\MyWarcraft.pdb
+D:\WinformProject\S2\MyWarcraft\MyWarcraft\obj\Debug\MyWarcraft.csproj.AssemblyReference.cache
+D:\WinformProject\S2\MyWarcraft\MyWarcraft\obj\Debug\MyWarcraft.csproj.SuggestedBindingRedirects.cache
+D:\WinformProject\S2\MyWarcraft\MyWarcraft\obj\Debug\MyWarcraft.FrmLogin.resources
+D:\WinformProject\S2\MyWarcraft\MyWarcraft\obj\Debug\MyWarcraft.FrmMain.resources
+D:\WinformProject\S2\MyWarcraft\MyWarcraft\obj\Debug\MyWarcraft.FrmRegist.resources
+D:\WinformProject\S2\MyWarcraft\MyWarcraft\obj\Debug\MyWarcraft.Properties.Resources.resources
+D:\WinformProject\S2\MyWarcraft\MyWarcraft\obj\Debug\MyWarcraft.csproj.GenerateResource.cache
+D:\WinformProject\S2\MyWarcraft\MyWarcraft\obj\Debug\MyWarcraft.csproj.CoreCompileInputs.cache
+D:\WinformProject\S2\MyWarcraft\MyWarcraft\obj\Debug\MyWarcraft.exe
+D:\WinformProject\S2\MyWarcraft\MyWarcraft\obj\Debug\MyWarcraft.pdb

@@ -1,0 +1,14 @@
+E:\S1T100\Board\Board\bin\Debug\Board.exe.config
+E:\S1T100\Board\Board\bin\Debug\Board.exe
+E:\S1T100\Board\Board\bin\Debug\Board.pdb
+E:\S1T100\Board\Board\obj\Debug\Board.csprojResolveAssemblyReference.cache
+E:\S1T100\Board\Board\obj\Debug\Board.FrmAdd.resources
+E:\S1T100\Board\Board\obj\Debug\Board.FrmMain.resources
+E:\S1T100\Board\Board\obj\Debug\Board.FrmSearch.resources
+E:\S1T100\Board\Board\obj\Debug\Board.Properties.Resources.resources
+E:\S1T100\Board\Board\obj\Debug\Board.csproj.GenerateResource.Cache
+E:\S1T100\Board\Board\obj\Debug\Board.exe
+E:\S1T100\Board\Board\obj\Debug\Board.pdb
+E:\【各班级课堂】\S1T100\Board\Board\bin\Debug\Board.exe.config
+E:\【各班级课堂】\S1T100\Board\Board\obj\Debug\Board.exe
+E:\【各班级课堂】\S1T100\Board\Board\obj\Debug\Board.pdb

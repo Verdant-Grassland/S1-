@@ -1,0 +1,9 @@
+E:\S1T100\Organization\Organization\bin\Debug\Organization.exe.config
+E:\S1T100\Organization\Organization\bin\Debug\Organization.exe
+E:\S1T100\Organization\Organization\bin\Debug\Organization.pdb
+E:\S1T100\Organization\Organization\obj\Debug\Organization.csprojResolveAssemblyReference.cache
+E:\S1T100\Organization\Organization\obj\Debug\Organization.exe
+E:\S1T100\Organization\Organization\obj\Debug\Organization.pdb
+E:\【各班级课堂】\S1T100\Organization\Organization\bin\Debug\Organization.exe.config
+E:\【各班级课堂】\S1T100\Organization\Organization\obj\Debug\Organization.exe
+E:\【各班级课堂】\S1T100\Organization\Organization\obj\Debug\Organization.pdb
