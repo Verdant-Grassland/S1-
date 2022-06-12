@@ -1,0 +1,9 @@
+package cn.jbit;
+
+public class Print {
+	public int myOutPut(){
+		for(int i = 100 ; i <= 999 ; i++){
+			int 
+		}
+	}
+}

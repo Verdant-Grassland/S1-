@@ -1,0 +1,12 @@
+package cn.jbit;
+
+import java.util.Scanner;
+
+public class Account {
+	Scanner input = new Scanner(System.in);
+	public double getMoney(){
+		System.out.println("ÊäÈëÄúµÄÓà¶î²éÑ¯:");
+		double money = input.nextDouble();
+		return money;
+    }
+}

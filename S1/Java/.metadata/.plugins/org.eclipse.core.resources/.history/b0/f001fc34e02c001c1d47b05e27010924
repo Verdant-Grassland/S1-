@@ -1,0 +1,27 @@
+package W10Y14;
+
+import java.util.Scanner;
+
+public class ZY5 {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("幸运抽奖\n");
+		System.out.print("输入会员卡卡号：");
+		Scanner input=new Scanner(System.in);
+		int hei=input.nextInt();
+		int shu=(int)(Math.random()*1000);
+		System.out.println(shu);
+		if (shu>500){
+			System.out.println(hei+"号客户是幸运客户，获得精美MP3一个。");
+		}else{
+			System.out.println(hei+"号感谢你的支持");
+		}
+		
+		
+	}
+
+}

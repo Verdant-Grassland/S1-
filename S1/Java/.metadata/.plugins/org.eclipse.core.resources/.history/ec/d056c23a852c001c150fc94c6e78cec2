@@ -1,0 +1,31 @@
+package cn.jbit;
+
+import java.util.Scanner;
+
+public class IF3 {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("我想买车我有多少万");
+		Scanner input=new Scanner(System.in);
+		int yuan=input.nextInt();
+		if (yuan>=500){
+			System.out.println("就买凯迪拉克");
+			}else if (yuan>=100){
+				System.out.println("就买帕萨特");
+			}else if (yuan>=50){
+				System.out.println("就买依兰特");
+
+			}else if (yuan>=10){
+				System.out.println("就买奥拓");
+			}else{	
+				System.out.println("只能买安特了");
+			}
+		}
+			
+	}
+
+}

@@ -1,0 +1,13 @@
+package cn.jbit;
+
+import java.util.Scanner;
+
+public class IF2 {
+	public static void main(String[] args) {
+		Scanner input=new Scanner(System.in);
+			System.out.println("中了多少万");
+			int cai=input.nextInt();
+			System.out.println("如果中了500万我就全买冰红茶地水");
+			if(cai>500);
+	}
+}

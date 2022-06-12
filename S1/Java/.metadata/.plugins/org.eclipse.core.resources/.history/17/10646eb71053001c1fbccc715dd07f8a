@@ -1,0 +1,19 @@
+package cn.jbiter;
+
+public class Game {
+	Person person;
+	Computer computer;
+	int count;
+	
+	public void initial(){
+		person = new Person();
+    	computer = new Computer();
+    	count = 0;
+	}
+    	
+    public void statGame(){
+    	System.out.println("———————————————欢迎进入游戏世界———————————————");
+    	System.out.println("\n\t\t******************");
+    	System.out.println("\t\t****  猜拳, 开始    **");
+	}
+}

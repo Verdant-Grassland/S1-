@@ -1,0 +1,16 @@
+package W10Y14;
+
+public class ZY5 {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("прткЁИ╫╠");
+		int hei=input.nextInt();
+		int shu=(int)(Math.random()*1000);
+		
+	}
+
+}

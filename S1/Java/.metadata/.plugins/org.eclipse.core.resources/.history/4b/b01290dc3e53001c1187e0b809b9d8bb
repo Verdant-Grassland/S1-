@@ -1,0 +1,10 @@
+package cn.jbit.test;
+
+
+public class TestYe3 {
+
+	public static void main(String[] args) {
+		Ye3 homework = new Ye3();
+		homework.showLint();
+	}
+}

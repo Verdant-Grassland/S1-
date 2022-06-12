@@ -1,0 +1,21 @@
+package cn.jbit;
+
+import java.util.Scanner;
+
+public class NgYe3 {
+	public int show(int num){
+		int sunder = 0;
+		for(int i = 0 ; i < num ; i++){
+			sunder = sunder + i;
+		}
+		return sunder;
+	}
+	public void showNum(){
+		Scanner input = new Scanner(System.in);
+		NgYe3 even = new NgYe3();
+		System.out.println("(求1~n的累加和！)请输入你的整数范围:");
+		int sunder = input.nextInt();
+		int num = even.show(num);
+		System.out.println("1~" + sunder + "的和是" + num);
+	}
+}

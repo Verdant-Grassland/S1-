@@ -1,0 +1,20 @@
+package CN.jbit;
+
+import java.util.Scanner;
+
+public class GoodLuck {
+	public static void main(String[] args){
+		Scanner input=new Scanner(System.in);
+		System.out.println("输入会员卡4位卡号");
+		int num=input.nextInt();
+		int qian=num/1000%10;
+		int bai=num/100%10;
+		int shi=num/10%10;
+		int ge=num%10;
+		System.out.println("会员卡各位之和");
+		int sum=qian+bai+shi+ge;
+		System.out.println("会员卡号"+num+"个位之和"+sum);
+		System.out.println("是幸运客户吗？"+(sum>20));
+		
+	}
+}

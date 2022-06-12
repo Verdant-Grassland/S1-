@@ -1,0 +1,34 @@
+package homework.jbit;
+
+import java.util.Scanner;
+
+public class Student {
+
+	public static void main(String[] args) {
+		Scanner input =new Scanner(System.in);
+		System.out.println("输入成绩分数的等级:");
+		int Chengji = input.nextInt();
+		switch(Chengji){
+			case 1:
+				if(Chengji>=100){
+					System.out.println("A");
+				}
+				break;
+			case 2:
+				if(Chengji>=84){
+					System.out.println("B");
+				}
+				break;
+			case 3:
+				if(Chengji>=69){
+					System.out.println("C");
+				}
+				break;
+			case 4:
+				if(Chengji<60){
+					System.out.println("D");
+				}
+				break;
+			}
+		}
+	}

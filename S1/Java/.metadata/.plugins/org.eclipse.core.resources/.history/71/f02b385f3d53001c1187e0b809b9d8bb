@@ -1,0 +1,11 @@
+package cn.jbit;
+
+import cn.jbit.Ye5;
+
+public class TestYe5 {
+
+	public static void main(String[] args) {
+		Ye5 homework = new Ye5();
+		homework.showInto();
+	}
+}

@@ -1,0 +1,11 @@
+package cn.jbit;
+
+import java.util.Scanner;
+
+public class TestCustomer1 {
+
+	public static void main(String[] args) {
+		Scanner input = new Scanner(System.in);
+		Customer1 = cust = new Customer1();
+	}
+}

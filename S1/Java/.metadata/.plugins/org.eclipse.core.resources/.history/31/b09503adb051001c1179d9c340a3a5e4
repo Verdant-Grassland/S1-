@@ -1,0 +1,12 @@
+package com.sun.corba.se.impl.logging;
+
+import java.util.Scanner;
+
+final class oo {
+	
+	Scanner input  = new Scanner(System.in);
+
+	public static void main(String[] args) {
+		System.err.println("helloworlld");		
+	}
+}

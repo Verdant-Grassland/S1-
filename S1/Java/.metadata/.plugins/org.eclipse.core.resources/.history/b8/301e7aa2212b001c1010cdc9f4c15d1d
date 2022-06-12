@@ -1,0 +1,10 @@
+package cn.jbit;
+
+public class ZY4 {
+	public static void main(String[] args){
+		int before=20;
+		double rise=9.8;
+		int now=before+rise;
+		
+	}
+}

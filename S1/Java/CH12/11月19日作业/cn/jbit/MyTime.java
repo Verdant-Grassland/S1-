@@ -1,0 +1,20 @@
+package cn.jbit;
+
+public class MyTime {
+	double times;
+	public String getInfo(){
+		String time = "";
+		if(times >= 5 && times <= 10){
+			time = "早晨";
+		}else if(times >= 11 && times <= 13){
+			time = "中午";
+		}else if(times >= 13 && times <= 19){
+			time = "下午";
+		}else if(times >= 18 && times <= 24){
+			time = "晚上";
+		}else{
+			time = "清晨";
+		}
+		return time;
+	}
+}
