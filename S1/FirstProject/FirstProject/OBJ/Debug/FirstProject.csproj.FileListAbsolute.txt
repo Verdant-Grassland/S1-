@@ -1,0 +1,8 @@
+D:\C#Project\FirstProject\FirstProject\bin\Debug\FirstProject.exe.config
+D:\C#Project\FirstProject\FirstProject\bin\Debug\FirstProject.exe
+D:\C#Project\FirstProject\FirstProject\bin\Debug\FirstProject.pdb
+D:\C#Project\FirstProject\FirstProject\obj\Debug\FirstProject.csproj.AssemblyReference.cache
+D:\C#Project\FirstProject\FirstProject\obj\Debug\FirstProject.csproj.SuggestedBindingRedirects.cache
+D:\C#Project\FirstProject\FirstProject\obj\Debug\FirstProject.csproj.CoreCompileInputs.cache
+D:\C#Project\FirstProject\FirstProject\obj\Debug\FirstProject.exe
+D:\C#Project\FirstProject\FirstProject\obj\Debug\FirstProject.pdb
