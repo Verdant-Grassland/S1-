@@ -1,8 +1,0 @@
-D:\C#Project\MyBack\bin\Debug\MyBack.exe.config
-D:\C#Project\MyBack\bin\Debug\MyBack.exe
-D:\C#Project\MyBack\bin\Debug\MyBack.pdb
-D:\C#Project\MyBack\obj\Debug\MyBack.csproj.AssemblyReference.cache
-D:\C#Project\MyBack\obj\Debug\MyBack.csproj.SuggestedBindingRedirects.cache
-D:\C#Project\MyBack\obj\Debug\MyBack.csproj.CoreCompileInputs.cache
-D:\C#Project\MyBack\obj\Debug\MyBack.exe
-D:\C#Project\MyBack\obj\Debug\MyBack.pdb

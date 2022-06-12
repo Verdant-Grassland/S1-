@@ -1,7 +1,0 @@
-package cn.jbit;
-
-public class SE {
-	public String shown(String id , String name , int age){
-		return shown(null, null, 0);
-	}
-}

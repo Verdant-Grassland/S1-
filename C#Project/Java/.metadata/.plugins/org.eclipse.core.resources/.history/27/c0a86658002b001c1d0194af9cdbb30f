@@ -1,9 +1,0 @@
-package cn.jbit;
-
-public class student {
-
-	public static void main(String[] args){
-		System.out.print("名字\t分数");
-		System.out.print("张迪\t15");
-	}
-}

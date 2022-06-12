@@ -1,6 +1,0 @@
-E:\C#Project\MyBank\MyBank\bin\Debug\MyBank.exe.config
-E:\C#Project\MyBank\MyBank\bin\Debug\MyBank.exe
-E:\C#Project\MyBank\MyBank\bin\Debug\MyBank.pdb
-E:\C#Project\MyBank\MyBank\obj\Debug\MyBank.exe
-E:\C#Project\MyBank\MyBank\obj\Debug\MyBank.pdb
-E:\C#Project\MyBank\MyBank\obj\Debug\MyBank.csprojResolveAssemblyReference.cache

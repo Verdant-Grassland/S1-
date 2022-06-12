@@ -1,8 +1,0 @@
-D:\C#Project\Demo\ArrayDemo\bin\Debug\ArrayDemo.exe.config
-D:\C#Project\Demo\ArrayDemo\bin\Debug\ArrayDemo.exe
-D:\C#Project\Demo\ArrayDemo\bin\Debug\ArrayDemo.pdb
-D:\C#Project\Demo\ArrayDemo\obj\Debug\ArrayDemo.csproj.AssemblyReference.cache
-D:\C#Project\Demo\ArrayDemo\obj\Debug\ArrayDemo.csproj.SuggestedBindingRedirects.cache
-D:\C#Project\Demo\ArrayDemo\obj\Debug\ArrayDemo.csproj.CoreCompileInputs.cache
-D:\C#Project\Demo\ArrayDemo\obj\Debug\ArrayDemo.exe
-D:\C#Project\Demo\ArrayDemo\obj\Debug\ArrayDemo.pdb

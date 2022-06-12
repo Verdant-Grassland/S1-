@@ -1,9 +1,0 @@
-package cn.jbit;
-
-public class student {
-
-	public static void main(String[] args){
-		System.out.print("Ãû×Ö\tÄêÁä");
-		System.out.print("ÕÅµÏ\t15");
-	}
-}

@@ -1,8 +1,0 @@
-package cn.jbit;
-
-public class NgYe2 {
-	public int abs(int a){
-		int sum = Math.abs(a);
-		return sum;
-	}
-}

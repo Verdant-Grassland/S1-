@@ -1,8 +1,0 @@
-D:\C#Project\C#作业\2月18日下午作业\2月18日下午作业\obj\Debug\2月18日下午作业.csproj.AssemblyReference.cache
-D:\C#Project\C#作业\2月18日下午作业\2月18日下午作业\obj\Debug\2月18日下午作业.csproj.SuggestedBindingRedirects.cache
-D:\C#Project\C#作业\2月18日下午作业\2月18日下午作业\obj\Debug\2月18日下午作业.csproj.CoreCompileInputs.cache
-D:\C#Project\C#作业\2月18日下午作业\2月18日下午作业\bin\Debug\2月18日下午作业.exe.config
-D:\C#Project\C#作业\2月18日下午作业\2月18日下午作业\bin\Debug\2月18日下午作业.exe
-D:\C#Project\C#作业\2月18日下午作业\2月18日下午作业\bin\Debug\2月18日下午作业.pdb
-D:\C#Project\C#作业\2月18日下午作业\2月18日下午作业\obj\Debug\2月18日下午作业.exe
-D:\C#Project\C#作业\2月18日下午作业\2月18日下午作业\obj\Debug\2月18日下午作业.pdb

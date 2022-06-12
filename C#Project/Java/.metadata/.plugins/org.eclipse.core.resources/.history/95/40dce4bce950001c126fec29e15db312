@@ -1,8 +1,0 @@
-package cn.jbit;
-
-public class InputData {
-	public int count(String word){
-		int tum = 
-	}
-	return 0;
-}

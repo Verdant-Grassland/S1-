@@ -1,26 +1,0 @@
-package W10Y14;
-
-import java.util.Scanner;
-
-public class ZY1 {
-
-	/**
-	 * 1.假设某便利商店的兼职小时工，按以下方式计算：0-60小时，
-	 * 每小时2061-75：每小时3076个小时以上：每小时40
-	 */
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		System.out.println("利商店的兼职小时工");
-		System.out.println("工作多少小时");
-		Scanner input=new Scanner(System.in);
-		int time=input.nextInt();
-		if(time>=76){
-			System.out.println("每小时40");
-		}else if(time>=60){
-			System.out.println("每小时30");
-		}else{
-			System.out.println("每小时20");
-		}
-	}
-	
-}

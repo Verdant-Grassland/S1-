@@ -1,5 +1,0 @@
-E:\C#Project\C#作业\2月23日晚自习作业\bin\Debug\2月23日晚自习作业.exe.config
-E:\C#Project\C#作业\2月23日晚自习作业\bin\Debug\2月23日晚自习作业.exe
-E:\C#Project\C#作业\2月23日晚自习作业\bin\Debug\2月23日晚自习作业.pdb
-E:\C#Project\C#作业\2月23日晚自习作业\obj\Debug\2月23日晚自习作业.exe
-E:\C#Project\C#作业\2月23日晚自习作业\obj\Debug\2月23日晚自习作业.pdb

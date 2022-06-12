@@ -1,6 +1,0 @@
-E:\C#Project\C#作业\3月2日下午作用\bin\Debug\3月2日下午作用.exe.config
-E:\C#Project\C#作业\3月2日下午作用\bin\Debug\3月2日下午作用.exe
-E:\C#Project\C#作业\3月2日下午作用\bin\Debug\3月2日下午作用.pdb
-E:\C#Project\C#作业\3月2日下午作用\obj\Debug\3月02日下午作业.csprojResolveAssemblyReference.cache
-E:\C#Project\C#作业\3月2日下午作用\obj\Debug\3月2日下午作用.exe
-E:\C#Project\C#作业\3月2日下午作用\obj\Debug\3月2日下午作用.pdb

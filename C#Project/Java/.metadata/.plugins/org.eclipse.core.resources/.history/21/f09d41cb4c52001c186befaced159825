@@ -1,6 +1,0 @@
-package cn.jbit.work;
-
-public class StudentBiz {
-	Student[] dent = new Student[10];
-	public void 
-}

@@ -1,9 +1,0 @@
-package cn.jbit;
-
-public class TestNgYe1 {
-
-	public static void main(String[] args) {
-		NgYe1 work = new NgYe1();
-		work.abs(work.num);
-	}
-}

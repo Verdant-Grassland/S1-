@@ -1,6 +1,0 @@
-E:\C#Project\StrorageManage\StrorageManage\bin\Debug\StrorageManage.exe.config
-E:\C#Project\StrorageManage\StrorageManage\bin\Debug\StrorageManage.exe
-E:\C#Project\StrorageManage\StrorageManage\bin\Debug\StrorageManage.pdb
-E:\C#Project\StrorageManage\StrorageManage\obj\Debug\StrorageManage.csprojResolveAssemblyReference.cache
-E:\C#Project\StrorageManage\StrorageManage\obj\Debug\StrorageManage.exe
-E:\C#Project\StrorageManage\StrorageManage\obj\Debug\StrorageManage.pdb
