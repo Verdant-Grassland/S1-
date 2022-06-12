@@ -1,0 +1,11 @@
+E:\C#Project\C#作业\2月28日下午作业\bin\Debug\2月28日下午作业.exe.config
+E:\C#Project\C#作业\2月28日下午作业\bin\Debug\2月28日下午作业.exe
+E:\C#Project\C#作业\2月28日下午作业\bin\Debug\2月28日下午作业.pdb
+E:\C#Project\C#作业\2月28日下午作业\obj\Debug\2月28日下午作业.exe
+E:\C#Project\C#作业\2月28日下午作业\obj\Debug\2月28日下午作业.pdb
+E:\C#Project\C#作业\2月28日下午作业\obj\Debug\2月28日下午作业.csprojResolveAssemblyReference.cache
+E:\C#Project\C#作业\2月28日下午作业\bin\Debug\2月28日下午作业.exe.manifest
+E:\C#Project\C#作业\2月28日下午作业\bin\Debug\2月28日下午作业.application
+E:\C#Project\C#作业\2月28日下午作业\obj\Debug\2月28日下午作业.TrustInfo.xml
+E:\C#Project\C#作业\2月28日下午作业\obj\Debug\2月28日下午作业.exe.manifest
+E:\C#Project\C#作业\2月28日下午作业\obj\Debug\2月28日下午作业.application

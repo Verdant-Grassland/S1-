@@ -1,0 +1,6 @@
+E:\C#Project\DemoNewSpan\DemoNewSpan\bin\Debug\DemoNewSpan.exe.config
+E:\C#Project\DemoNewSpan\DemoNewSpan\bin\Debug\DemoNewSpan.exe
+E:\C#Project\DemoNewSpan\DemoNewSpan\bin\Debug\DemoNewSpan.pdb
+E:\C#Project\DemoNewSpan\DemoNewSpan\obj\Debug\DemoNewSpan.csprojResolveAssemblyReference.cache
+E:\C#Project\DemoNewSpan\DemoNewSpan\obj\Debug\DemoNewSpan.exe
+E:\C#Project\DemoNewSpan\DemoNewSpan\obj\Debug\DemoNewSpan.pdb
