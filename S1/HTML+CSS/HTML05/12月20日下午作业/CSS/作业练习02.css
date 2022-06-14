@@ -1,0 +1,27 @@
+#menu{
+	width:255px;
+	background-color: lightgray;
+}
+ul,li,h2{
+	margin: 0px;
+	padding: 0px;
+}
+#menu h2{
+	font-size: 17px;
+	font-weight: bold;
+	line-height: 30px;
+	text-indent: 2em;
+	color: white;
+	
+	background: red;
+	background-image: url(../img/arrow-down.gif);
+	background-repeat: no-repeat;
+	background-position: 230px 8px;
+}
+#menu ul li{
+	font:16px/25px 宋体;
+	text-indent: 3em;
+	background: url(../img/arrow-right.gif) no-repeat 235px 15px;
+	height: 45px;
+	line-height: 50px;
+}

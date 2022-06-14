@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>注册会员</title>
+		<style>
+			.txt{
+				text-align: center;
+			}
+		</style>
+	</head>
+	<body>
+		<form action="" method="post">
+			<table>
+				<tr>
+					<td>公司:</td>
+					<td><input type="text" name="work" id="work" value=""/>*</td>
+				</tr>
+				<tr>
+					<td>姓名:</td>
+					<td><input type="text" name="name" id="name" value=""/>*</td>
+				</tr>
+				<tr>
+					<td>地址:</td>
+					<td><input type="text" name="address" id="address" value="" /></td>
+				</tr>
+				<tr>
+					<td>电话:</td>
+					<td><input type="text" name="phone" id="phone" value=""/>*</td>
+				</tr>
+				<tr>
+					<td>Email:</td>
+					<td><input type="text" name="email" id="email" value=""/>*</td>
+				</tr>
+				<tr>
+					<td>手机/PAD:</td>
+					<td>
+						<select name="手机类型">
+							<option value="手机" hidden="hidden">手机</option>
+							<option value="PAD">PAD</option>
+						</select>
+						屏幕分辨率：
+						<input type="text" name="pm" id="pm" value="" />
+					</td>
+				</tr>
+				<tr>
+					<td>操作系统版本号:</td>
+					<td>
+						<input type="text" name="win" id="win" value="" size="9"/>
+						预期销量：
+						<input type="text" name="sum" id="sum" value=""/>
+					</td>
+				</tr>
+				<tr>
+					<td>项目上市时间:</td>
+					<td>
+						<input type="text" name="time" id="time" value="" size="10"/>
+						硬件解决方案费用预算：
+						<select name="钱">
+							<option value="0.1美元" selected="selected">0.1美元</option>
+							<option value="0.3美元" selected="selected">0.3美元</option>
+							<option value="0.5美元" selected="selected">0.5美元</option>
+							<option value="0.7美元" selected="selected">0.7美元</option>
+							<option value="0.9美元" selected="selected">0.9美元</option>
+						</select>
+					</td>
+					</tr>
+					<tr>
+						<td></td>
+						<td><textarea name="" rows="10" cols="45">请在输入1留言内容，我们会尽快与您联系!</textarea></td>
+					</tr>
+					<tr>
+						<td></td>
+						<td><input type="button" name="jiao" id="jiao" value="提交" />
+						<input type="reset" name="cton" id=cton"" value="重填" /></td>
+					</tr>
+			</table>
+		</form>
+	</body>
+</html>

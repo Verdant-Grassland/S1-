@@ -1,0 +1,34 @@
+.wdt{
+	width: 300px;
+}
+
+.widr{
+	width: 40px;
+}
+
+.wid{
+	width: 150px;
+}
+
+span{
+	color: red;
+}
+.next{
+	color: dodgerblue;
+}
+
+.b{
+	width:40px;
+	background-color: rgb(189,165,165);
+	color: white;
+}
+.c{
+	width:20px;
+	background-color: rgb(189,165,165);
+	color: white;
+}
+
+.nnn{
+	color: gray;
+	font-size: 5px;
+}

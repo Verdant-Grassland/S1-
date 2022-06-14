@@ -1,0 +1,166 @@
+/*整个盒子*/
+#headericone{
+	width:1023px;
+	margin:0px auto;
+}
+/*头部*/
+header{
+	height: 47px;
+	background:url(../img/menuBg.jpg);
+}
+*{
+	margin:0px;
+	padding: 0px;
+}
+header .logo{
+	float: left;
+}
+header .index{
+	float: left;
+	margin-left: 10px;
+	margin-top:10px;
+	background-color:#fff;
+	height: 50px;
+	width: 100px;
+	border-radius: 5px;
+	text-align: center;
+}
+header .index h2{
+	font-size: 15px;
+	color:red;
+	line-height: 40px;
+}
+.right{
+	float: right;
+	color:#fff;
+	font:12px/50px 宋体;
+	margin-right: 40px;
+}
+.right a:hover{
+	color: coral;
+}
+a{
+	text-decoration: none;
+	color: white;
+}
+/*中间*/
+section{
+	clear: both;
+}
+.left,.right{
+	float: left;
+}
+.left{
+	width:735px;
+}
+/*中间侠客*/
+.xiake{
+	border:1px solid gray;
+	width:190px;
+	float: left;
+	margin-right: 10px;
+}
+.xiake ul li{
+	list-style: none;
+	background:url(../img/gameBg1.jpg) no-repeat;
+	height: 29px;
+	font:12px/29px 宋体;
+	padding-left: 10px;
+}
+.xiake ul li img{
+	vertical-align: middle;
+	margin-right: 10px;
+}
+.xiake ul li:hover{
+	background:url(../img/gameBg2.jpg) no-repeat;
+	color:#fff;
+	cursor: pointer;
+}
+.webGame{
+	float: left;
+	border:1px solid gray;
+	width: 525px;
+	padding-top:5px;
+	background:url(../img/img-3.jpg);
+}
+.webGame img{
+	vertical-align: middle;
+}
+.top{
+	margin-bottom: 10px;
+	height: 231px;
+}
+/*游戏*/
+.game{
+	clear: both;
+	border:1px solid gray;
+	height: 200px;
+	width:735px;
+}
+h3{
+	border-bottom: 1px solid gray;
+	font-size: 14px;
+	color:darkred;
+	line-height: 30px;
+	text-indent: 1em;
+}
+.game h3 span{
+	color:gray;
+	margin-left: 10px;
+}
+.gameCenter{
+	padding:15px;
+}
+.long{
+	padding-top:5px;
+	padding-left: 5px;
+	width: 326px;
+	border:1px solid gray;
+	overflow: hidden;
+	float: left;
+	margin-right: 10px;
+}
+.long dl dt{
+	float: left;
+	width:180px;
+	margin-right:5px;
+}
+.long dl dd{
+	float: left;
+	width:141px;
+	font: 12px/22px 宋体;
+}
+h4{
+	color:darkred;
+	font-size: 14px;
+}
+.num{
+	color:red;
+}
+.start{
+	background-color:greenyellow;
+	border:1px solid gray;
+	padding:3px;
+	margin-right: 5px;
+	color:green;
+}
+.js{
+	clear: both;
+	overflow: hidden;
+	width:735px;
+	border:1px solid gray;
+	margin-top:10px;
+	padding-bottom: 10px;
+}
+.js dl{
+	float: left;
+	width:163px;
+	padding-top:10px;
+	padding-left: 20px;
+}
+.js dl dd{
+	font: 12px/22px 宋体;
+}
+.js dl dd h4{
+	padding-left: 30px;
+}

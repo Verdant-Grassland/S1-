@@ -1,0 +1,15 @@
+p{
+    font-size: 14px;
+}
+
+body h2{
+    font-size: 16px;
+}
+
+.text{
+	color: red;
+}
+
+.text ~ h2{
+    color: blue;
+}

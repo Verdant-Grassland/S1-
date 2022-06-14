@@ -1,0 +1,50 @@
+        .sheji{
+			background-color: darkslategray;
+			color: white;
+		}
+		.stu{
+			background-color: darkgreen;
+			color: white;
+		}
+		.teach{
+			background-color: cornflowerblue;
+			color: white;
+		}
+		.jigo{
+			background-color: royalblue;
+			color: white;
+		}
+		.xiu{
+			background-color: midnightblue;
+			color: white;
+		}
+		a{
+			color: yellowgreen;
+		}
+		.sho{
+			background-color: orange;
+			color: white;
+		}
+		.shei{
+			background-color:red;
+			color: white;
+		}
+		.zhue{
+			background-color: palevioletred;
+			color: white;
+		}
+		.shi{
+			background-color: darkred;
+			color: white;
+		}
+		.yue{
+			background-color: mediumpurple;
+			color: white;
+		}
+		.wash{
+			background-color: purple;
+			color: white;
+		}
+		q{
+			color: orange;
+		}
